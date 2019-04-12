@@ -1,0 +1,51 @@
+Thu Sep 01 16:08:07 CLT 2016 - com.microsoft.sqlserver.jdbc.SQLServerException: No se pudo realizar la conexión TCP/IP al host 150.0.20.202, puerto 1433. Error: "connect timed out. Verifique las propiedades de conexión, compruebe que hay una instancia de SQL Server ejecutándose en el host y aceptando las conexiones TCP/IP en el puerto y compruebe que no hay ningún firewall bloqueando las conexiones TCP en el puerto.".
+Thu Sep 01 16:08:30 CLT 2016 - Conexión a URL con Autentificacion Token
+Thu Sep 01 16:08:31 CLT 2016 - Conexión a URL vehicles
+Thu Sep 01 16:08:32 CLT 2016 - Conexión a URL con registros de posición
+Thu Sep 01 16:08:32 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Thu Sep 01 16:08:35 CLT 2016 - Conexión a URL con registros de posición
+Thu Sep 01 16:08:35 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 2 numero de trama: 2
+Thu Sep 01 16:08:36 CLT 2016 - Conexión a URL con registros de posición
+Thu Sep 01 16:08:36 CLT 2016 - Lectura de trama vehiculo : FDTV67 numero de trama: 3
+Thu Sep 01 16:08:37 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160901','7000000204',0,0,0,convert(datetime,'2016-09-01 14:29:14.0',102),'336256707811','','336256','707811','          ','0','175')
+Thu Sep 01 16:08:37 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160901','7000000204',0,0,0,convert(datetime,'2016-09-01 14:29:31.0',102),'336257707814','','336257','707814','          ','19','271')
+Thu Sep 01 16:08:37 CLT 2016 - REG obtenido: insert into rxc4 values ('111111111111111','0','12,712,FDTV67,010916,1729310,0,0,12.0,357666050776688,271.0,2016-09-01T17:29:31,true,2016-09-01T17:36:19.071164,,0,712,0,99.0,19.31208336257,707814','2016-09-01 14:29:31.0','17','0')
+Thu Sep 01 16:08:37 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160901','7000000204',0,0,0,convert(datetime,'2016-09-01 14:30:06.0',102),'336250707867','','336250','707867','          ','56','289')
+Thu Sep 01 16:08:37 CLT 2016 - REG obtenido: insert into rxc4 values ('111111111111111','0','12,712,FDTV67,010916,1730060,0,0,35.0,357666050776688,289.0,2016-09-01T17:30:06,true,2016-09-01T17:36:22.192084,,0,712,0,99.0,56.3269336250,707867','2016-09-01 14:30:06.0','17','0')
+Thu Sep 01 16:08:37 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160901','7000000204',0,0,0,convert(datetime,'2016-09-01 14:30:28.0',102),'336243707886','','336243','707886','          ','24','332')
+Thu Sep 01 16:08:38 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160901','7000000204',0,0,0,convert(datetime,'2016-09-01 14:31:16.0',102),'336214707865','','336214','707865','          ','37','30')
+Thu Sep 01 16:08:38 CLT 2016 - REG obtenido: insert into rxc4 values ('111111111111111','0','12,712,FDTV67,010916,1731160,0,0,23.0,357666050776688,30,2016-09-01T17:31:16,true,2016-09-01T17:36:20.479754,,0,712,0,99.0,37.01482336214,707865','2016-09-01 14:31:16.0','17','0')
+Thu Sep 01 16:08:38 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160901','7000000204',0,0,0,convert(datetime,'2016-09-01 14:31:46.0',102),'336195707853','','336195','707853','          ','24','338')
+Thu Sep 01 16:08:38 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160901','7000000204',0,0,0,convert(datetime,'2016-09-01 14:32:26.0',102),'336189707862','','336189','707862','          ','6','12')
+Thu Sep 01 16:08:39 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160901','7000000204',0,0,0,convert(datetime,'2016-09-01 14:32:37.0',102),'336188707863','','336188','707863','          ','8','329')
+Thu Sep 01 16:08:39 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160901','7000000204',0,0,0,convert(datetime,'2016-09-01 14:33:13.0',102),'336184707871','','336184','707871','          ','14','271')
+Thu Sep 01 16:08:40 CLT 2016 - REG obtenido: insert into RegRx values (23,1,'20160901','7000000204',0,0,0,convert(datetime,'2016-09-01 14:36:15.0',102),'336186707872','','336186','707872','          ','1596','191')
+Thu Sep 01 16:08:40 CLT 2016 - Fin lectura
+Thu Sep 01 16:08:40 CLT 2016 - Se cierra conexion
+
+Thu Sep 01 16:14:23 CLT 2016 - Conexión a URL con Autentificacion Token
+Thu Sep 01 16:14:23 CLT 2016 - Conexión a URL vehicles
+Thu Sep 01 16:14:24 CLT 2016 - Conexión a URL con registros de posición
+Thu Sep 01 16:14:24 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Thu Sep 01 16:14:25 CLT 2016 - Conexión a URL con registros de posición
+Thu Sep 01 16:14:25 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 2 numero de trama: 2
+Thu Sep 01 16:14:27 CLT 2016 - Conexión a URL con registros de posición
+Thu Sep 01 16:14:27 CLT 2016 - Lectura de trama vehiculo : FDTV67 numero de trama: 3
+Thu Sep 01 16:14:28 CLT 2016 - Fin lectura
+Thu Sep 01 16:14:28 CLT 2016 - Se cierra conexion
+
+Thu Sep 01 16:15:50 CLT 2016 - Conexión a URL con Autentificacion Token
+Thu Sep 01 16:15:51 CLT 2016 - Conexión a URL vehicles
+Thu Sep 01 16:15:51 CLT 2016 - OT Err: java.lang.RuntimeException: Uncompilable source code - Erroneous ctor sym type: <any>
+
+Thu Sep 01 16:16:06 CLT 2016 - Conexión a URL con Autentificacion Token
+Thu Sep 01 16:16:06 CLT 2016 - Conexión a URL vehicles
+Thu Sep 01 16:16:06 CLT 2016 - Conexión a URL con registros de posición
+Thu Sep 01 16:16:06 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Thu Sep 01 16:16:07 CLT 2016 - Conexión a URL con registros de posición
+Thu Sep 01 16:16:07 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 2 numero de trama: 2
+Thu Sep 01 16:16:08 CLT 2016 - Conexión a URL con registros de posición
+Thu Sep 01 16:16:08 CLT 2016 - Lectura de trama vehiculo : FDTV67 numero de trama: 3
+Thu Sep 01 16:16:08 CLT 2016 - Fin lectura
+Thu Sep 01 16:16:08 CLT 2016 - Se cierra conexion
+

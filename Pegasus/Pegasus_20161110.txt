@@ -1,0 +1,32 @@
+Thu Nov 10 11:11:59 CLT 2016 - Conexión a URL con Autentificacion Token
+Thu Nov 10 11:11:59 CLT 2016 - Conexión a URL vehicles
+Thu Nov 10 11:12:00 CLT 2016 - Conexión a URL con registros de posición
+Thu Nov 10 11:12:00 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Thu Nov 10 11:12:00 CLT 2016 - Conexión a URL con registros de posición
+Thu Nov 10 11:12:00 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 2 numero de trama: 2
+Thu Nov 10 11:12:01 CLT 2016 - Conexión a URL con registros de posición
+Thu Nov 10 11:12:01 CLT 2016 - Lectura de trama vehiculo : FDTV67 numero de trama: 3
+Thu Nov 10 11:12:18 CLT 2016 - Conexión a URL con Autentificacion Token
+Thu Nov 10 11:12:18 CLT 2016 - Conexión a URL vehicles
+Thu Nov 10 11:12:19 CLT 2016 - Conexión a URL con registros de posición
+Thu Nov 10 11:12:19 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Thu Nov 10 11:12:19 CLT 2016 - Conexión a URL con registros de posición
+Thu Nov 10 11:12:19 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 2 numero de trama: 2
+Thu Nov 10 11:12:20 CLT 2016 - Conexión a URL con registros de posición
+Thu Nov 10 11:12:20 CLT 2016 - Lectura de trama vehiculo : FDTV67 numero de trama: 3
+Thu Nov 10 11:12:24 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20161110','7000000204',0,0,0,convert(datetime,'2016-11-10 11:03:15.0',102),'336116706954','','336116','706954','          ','11','200')
+Thu Nov 10 11:12:25 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20161110','7000000204',0,0,0,convert(datetime,'2016-11-10 11:03:40.0',102),'336131706962','','336131','706962','          ','19','147')
+Thu Nov 10 11:12:25 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20161110','7000000204',0,0,0,convert(datetime,'2016-11-10 11:03:49.0',102),'336131706961','','336131','706961','          ','0','128')
+Thu Nov 10 11:12:25 CLT 2016 - REG obtenido: insert into rxc4 values ('111111111111111','0','12,712,FDTV67,101116,1403490,0,0,0,357666050776688,128.0,2016-11-10T14:03:49,true,2016-11-10T14:04:29.562912,,0,712,0,99.0,0336131,706961','2016-11-10 11:03:49.0','17','0')
+Thu Nov 10 11:12:25 CLT 2016 - REG obtenido: insert into RegRx values (23,1,'20161110','7000000204',0,0,0,convert(datetime,'2016-11-10 11:04:23.0',102),'336133706957','','336133','706957','          ','2574','117')
+Thu Nov 10 11:12:26 CLT 2016 - REG obtenido: insert into RegRx values (22,1,'20161110','7000000204',0,0,0,convert(datetime,'2016-11-10 11:06:31.0',102),'336133706957','','336133','706957','          ','2','117')
+Thu Nov 10 11:12:26 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20161110','7000000204',0,0,0,convert(datetime,'2016-11-10 11:06:44.0',102),'336134706953','','336134','706953','          ','19','121')
+Thu Nov 10 11:12:26 CLT 2016 - REG obtenido: insert into rxc4 values ('111111111111111','0','12,712,FDTV67,101116,1406440,0,0,12.0,357666050776688,121.0,2016-11-10T14:06:44,true,2016-11-10T14:07:16.421194,,0,712,0,99.0,19.31208336134,706953','2016-11-10 11:06:44.0','17','0')
+Thu Nov 10 11:12:26 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20161110','7000000204',0,0,0,convert(datetime,'2016-11-10 11:06:50.0',102),'336135706952','','336135','706952','          ','8','120')
+Thu Nov 10 11:12:26 CLT 2016 - REG obtenido: insert into rxc4 values ('111111111111111','0','12,712,FDTV67,101116,1406500,0,0,5.0,357666050776688,120,2016-11-10T14:06:50,true,2016-11-10T14:07:14.504611,,0,712,0,99.0,8.0467336135,706952','2016-11-10 11:06:50.0','17','0')
+Thu Nov 10 11:12:27 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20161110','7000000204',0,0,0,convert(datetime,'2016-11-10 11:06:52.0',102),'336135706952','','336135','706952','          ','8','118')
+Thu Nov 10 11:12:27 CLT 2016 - REG obtenido: insert into rxc4 values ('111111111111111','0','12,712,FDTV67,101116,1406520,0,0,5.0,357666050776688,118.0,2016-11-10T14:06:52,true,2016-11-10T14:07:12.072598,,0,712,0,99.0,8.0467336135,706952','2016-11-10 11:06:52.0','17','0')
+Thu Nov 10 11:12:27 CLT 2016 - REG obtenido: insert into RegRx values (23,1,'20161110','7000000204',0,0,0,convert(datetime,'2016-11-10 11:07:07.0',102),'336136706953','','336136','706953','          ','1','250')
+Thu Nov 10 11:12:27 CLT 2016 - Fin lectura
+Thu Nov 10 11:12:27 CLT 2016 - Se cierra conexion
+

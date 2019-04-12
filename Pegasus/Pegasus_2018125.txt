@@ -1,0 +1,2 @@
+Wed Dec 05 15:26:37 CLT 2018 - IO Err: java.io.IOException: Server returned HTTP response code: 400 for URL: https://pro.analyzegps.cl/api/login
+

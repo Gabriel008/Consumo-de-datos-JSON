@@ -1,0 +1,357 @@
+Fri Aug 19 08:18:57 CLT 2016 - Conexión a URL con Autentificacion Token
+Fri Aug 19 08:18:57 CLT 2016 - Conexión a URL vehicles
+Fri Aug 19 08:18:59 CLT 2016 - Conexión a URL con registros de posición
+Fri Aug 19 08:18:59 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Fri Aug 19 08:19:09 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160818','7000000203',0,0,0,convert(datetime,'2016-08-18 17:56:50.0',102),'334578706493','','334578','706493','          ','0','349')
+Fri Aug 19 08:19:09 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160818','7000000203',0,0,0,convert(datetime,'2016-08-18 18:01:49.0',102),'334569706495','','334569','706495','          ','17','352')
+Fri Aug 19 08:19:10 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160818','7000000203',0,0,0,convert(datetime,'2016-08-18 18:02:12.0',102),'334554706496','','334554','706496','          ','28','38')
+Fri Aug 19 08:19:10 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160818','7000000203',0,0,0,convert(datetime,'2016-08-18 18:06:58.0',102),'334533706377','','334533','706377','          ','25','13')
+Fri Aug 19 08:19:10 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160818','7000000203',0,0,0,convert(datetime,'2016-08-18 18:11:58.0',102),'334436706409','','334436','706409','          ','0','343')
+Fri Aug 19 08:19:10 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160818','7000000203',0,0,0,convert(datetime,'2016-08-18 18:15:17.0',102),'334316706421','','334316','706421','          ','27','61')
+Fri Aug 19 08:19:10 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160818','7000000203',0,0,0,convert(datetime,'2016-08-18 18:15:39.0',102),'334318706405','','334318','706405','          ','4','176')
+Fri Aug 19 08:19:10 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160818','7000000203',0,0,0,convert(datetime,'2016-08-18 18:17:25.0',102),'334319706405','','334319','706405','          ','0','185')
+Fri Aug 19 08:19:10 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160818','7000000203',0,0,0,convert(datetime,'2016-08-18 18:21:16.0',102),'334319706405','','334319','706405','          ','0','185')
+Fri Aug 19 08:19:11 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160818','7000000203',0,0,0,convert(datetime,'2016-08-18 20:18:38.0',102),'334319706405','','334319','706405','          ','0','0')
+Fri Aug 19 08:19:12 CLT 2016 - Conexión a URL con registros de posición
+Fri Aug 19 08:19:12 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 2 numero de trama: 2
+Fri Aug 19 08:19:12 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160818','7000000204',0,0,0,convert(datetime,'2016-08-18 16:46:37.0',102),'335325706810','','335325','706810','          ','30','168')
+Fri Aug 19 08:19:12 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160818','7000000204',0,0,0,convert(datetime,'2016-08-18 16:46:50.0',102),'335326706816','','335326','706816','          ','19','346')
+Fri Aug 19 08:19:12 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160818','7000000204',0,0,0,convert(datetime,'2016-08-18 16:47:57.0',102),'335228706767','','335228','706767','          ','101','23')
+Fri Aug 19 08:19:12 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160818','7000000204',0,0,0,convert(datetime,'2016-08-18 16:52:48.0',102),'334558706571','','334558','706571','          ','101','324')
+Fri Aug 19 08:19:12 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160818','7000000204',0,0,0,convert(datetime,'2016-08-18 16:53:43.0',102),'334435706603','','334435','706603','          ','96','13')
+Fri Aug 19 08:19:13 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160818','7000000204',0,0,0,convert(datetime,'2016-08-18 16:53:45.0',102),'334429706601','','334429','706601','          ','96','13')
+Fri Aug 19 08:19:13 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160818','7000000204',0,0,0,convert(datetime,'2016-08-18 16:55:00.0',102),'334298706602','','334298','706602','          ','35','69')
+Fri Aug 19 08:19:13 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160818','7000000204',0,0,0,convert(datetime,'2016-08-18 16:59:03.0',102),'334326706479','','334326','706479','          ','17','68')
+Fri Aug 19 08:19:13 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160818','7000000204',0,0,0,convert(datetime,'2016-08-18 16:59:40.0',102),'334310706474','','334310','706474','          ','14','61')
+Fri Aug 19 08:19:13 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160818','7000000204',0,0,0,convert(datetime,'2016-08-18 17:04:46.0',102),'334320706406','','334320','706406','          ','6','181')
+Fri Aug 19 08:19:14 CLT 2016 - Conexión a URL con registros de posición
+Fri Aug 19 08:19:14 CLT 2016 - Lectura de trama vehiculo : FDTV67 numero de trama: 3
+Fri Aug 19 08:19:14 CLT 2016 - REG obtenido: insert into rxc4 values ('111111111111111','0','20,712,FDTV67,190816,1103110,0,0,0,357666050776688,0,2016-08-19T11:03:11.548904,false,2016-08-19T11:03:11.548904,,0,712,0,0,0300000,700000','2016-08-19 08:03:11.0','17','0')
+Fri Aug 19 08:19:15 CLT 2016 - REG obtenido: insert into rxc4 values ('111111111111111','0','20,712,FDTV67,190816,1103130,0,0,0,357666050776688,0,2016-08-19T11:03:13.168476,false,2016-08-19T11:03:13.168476,,0,712,0,0,0300000,700000','2016-08-19 08:03:13.0','17','0')
+Fri Aug 19 08:19:15 CLT 2016 - REG obtenido: insert into rxc4 values ('111111111111111','0','20,712,FDTV67,190816,1103150,0,0,0,357666050776688,0,2016-08-19T11:03:15.429000,false,2016-08-19T11:03:15.429000,,0,712,0,0,0300000,700000','2016-08-19 08:03:15.0','17','0')
+Fri Aug 19 08:19:15 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160819','7000000206',0,0,0,convert(datetime,'2016-08-19 08:05:46.0',102),'338066707470','','338066','707470','          ','0','99')
+Fri Aug 19 08:19:15 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160819','7000000206',0,0,0,convert(datetime,'2016-08-19 08:09:35.0',102),'338066707470','','338066','707470','          ','0','99')
+Fri Aug 19 08:19:15 CLT 2016 - REG obtenido: insert into rxc4 values ('111111111111111','0','20,712,FDTV67,190816,1109380,0,0,0,357666050776688,0,2016-08-19T11:09:38.554612,false,2016-08-19T11:09:38.554612,,0,712,0,0,0300000,700000','2016-08-19 08:09:38.0','17','0')
+Fri Aug 19 08:19:15 CLT 2016 - REG obtenido: insert into rxc4 values ('111111111111111','0','20,712,FDTV67,190816,1109390,0,0,0,357666050776688,0,2016-08-19T11:09:39.923085,false,2016-08-19T11:09:39.923085,,0,712,0,0,0300000,700000','2016-08-19 08:09:39.0','17','0')
+Fri Aug 19 08:19:15 CLT 2016 - REG obtenido: insert into rxc4 values ('111111111111111','0','20,712,FDTV67,190816,1109410,0,0,0,357666050776688,0,2016-08-19T11:09:41.466974,false,2016-08-19T11:09:41.466974,,0,712,0,0,0300000,700000','2016-08-19 08:09:41.0','17','0')
+Fri Aug 19 08:19:15 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160819','7000000206',0,0,0,convert(datetime,'2016-08-19 08:16:26.0',102),'338066707470','','338066','707470','          ','0','99')
+Fri Aug 19 08:19:15 CLT 2016 - Fin lectura
+Fri Aug 19 08:19:15 CLT 2016 - Se cierra conexion
+
+Fri Aug 19 10:41:15 CLT 2016 - Conexión a URL con Autentificacion Token
+Fri Aug 19 10:41:15 CLT 2016 - Conexión a URL vehicles
+Fri Aug 19 10:41:17 CLT 2016 - Conexión a URL con registros de posición
+Fri Aug 19 10:41:17 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Fri Aug 19 10:41:18 CLT 2016 - REG obtenido: insert into RegRx values (5,1,'20160819','7000000203',0,0,0,convert(datetime,'2016-08-19 10:20:27.0',102),'334936707556','','334936','707556','          ','86','264')
+Fri Aug 19 10:41:18 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160819','7000000203',0,0,0,convert(datetime,'2016-08-19 10:22:53.0',102),'335020707981','','335020','707981','          ','119','208')
+Fri Aug 19 10:41:18 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160819','7000000203',0,0,0,convert(datetime,'2016-08-19 10:26:46.0',102),'335585708265','','335585','708265','          ','123','248')
+Fri Aug 19 10:41:18 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160819','7000000203',0,0,0,convert(datetime,'2016-08-19 10:27:53.0',102),'335687708477','','335687','708477','          ','125','209')
+Fri Aug 19 10:41:18 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160819','7000000203',0,0,0,convert(datetime,'2016-08-19 10:28:27.0',102),'335792708487','','335792','708487','          ','130','160')
+Fri Aug 19 10:41:18 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160819','7000000203',0,0,0,convert(datetime,'2016-08-19 10:29:29.0',102),'335974708449','','335974','708449','          ','120','203')
+Fri Aug 19 10:41:18 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160819','7000000203',0,0,0,convert(datetime,'2016-08-19 10:34:28.0',102),'336671709116','','336671','709116','          ','114','238')
+Fri Aug 19 10:41:18 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160819','7000000203',0,0,0,convert(datetime,'2016-08-19 10:37:15.0',102),'336748709248','','336748','709248','          ','24','157')
+Fri Aug 19 10:41:18 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160819','7000000203',0,0,0,convert(datetime,'2016-08-19 10:38:45.0',102),'336818709227','','336818','709227','          ','54','204')
+Fri Aug 19 10:41:18 CLT 2016 - REG obtenido: insert into RegRx values (5,1,'20160819','7000000203',0,0,0,convert(datetime,'2016-08-19 10:39:03.0',102),'336850709253','','336850','709253','          ','98','214')
+Fri Aug 19 10:41:20 CLT 2016 - Conexión a URL con registros de posición
+Fri Aug 19 10:41:20 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 2 numero de trama: 2
+Fri Aug 19 10:41:22 CLT 2016 - Conexión a URL con registros de posición
+Fri Aug 19 10:41:22 CLT 2016 - Lectura de trama vehiculo : FDTV67 numero de trama: 3
+Fri Aug 19 10:41:22 CLT 2016 - REG obtenido: insert into rxc4 values ('111111111111111','0','12,712,FDTV67,190816,1328460,0,0,9.0,357666050776688,67.0,2016-08-19T13:28:46,true,2016-08-19T13:29:26.922424,,0,712,0,99.0,14.48406334243,707771','2016-08-19 10:28:46.0','17','0')
+Fri Aug 19 10:41:22 CLT 2016 - REG obtenido: insert into RegRx values (23,1,'20160819','7000000206',0,0,0,convert(datetime,'2016-08-19 10:29:22.0',102),'334243707770','','334243','707770','          ','0','67')
+Fri Aug 19 10:41:22 CLT 2016 - REG obtenido: insert into RegRx values (22,1,'20160819','7000000206',0,0,0,convert(datetime,'2016-08-19 10:30:01.0',102),'334243707770','','334243','707770','          ','0','67')
+Fri Aug 19 10:41:22 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160819','7000000206',0,0,0,convert(datetime,'2016-08-19 10:30:22.0',102),'334240707764','','334240','707764','          ','11','123')
+Fri Aug 19 10:41:22 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160819','7000000206',0,0,0,convert(datetime,'2016-08-19 10:30:32.0',102),'334244707761','','334244','707761','          ','17','180')
+Fri Aug 19 10:41:23 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160819','7000000206',0,0,0,convert(datetime,'2016-08-19 10:31:21.0',102),'334276707782','','334276','707782','          ','19','250')
+Fri Aug 19 10:41:23 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160819','7000000206',0,0,0,convert(datetime,'2016-08-19 10:31:44.0',102),'334264707802','','334264','707802','          ','45','320')
+Fri Aug 19 10:41:23 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160819','7000000206',0,0,0,convert(datetime,'2016-08-19 10:32:02.0',102),'334247707803','','334247','707803','          ','30','30')
+Fri Aug 19 10:41:23 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160819','7000000206',0,0,0,convert(datetime,'2016-08-19 10:37:01.0',102),'334246707798','','334246','707798','          ','0','53')
+Fri Aug 19 10:41:23 CLT 2016 - REG obtenido: insert into rxc4 values ('111111111111111','0','10,712,FDTV67,190816,1337560,0,0,0,357666050776688,53.0,2016-08-19T13:37:56,true,2016-08-19T13:37:58.342040,slwtrfc,11.0,712,0.77,8.0,0334246,707798','2016-08-19 10:37:56.0','17','0')
+Fri Aug 19 10:41:23 CLT 2016 - Fin lectura
+Fri Aug 19 10:41:23 CLT 2016 - Se cierra conexion
+
+Fri Aug 19 10:42:24 CLT 2016 - Conexión a URL con Autentificacion Token
+Fri Aug 19 10:42:25 CLT 2016 - Conexión a URL vehicles
+Fri Aug 19 10:42:27 CLT 2016 - Conexión a URL con registros de posición
+Fri Aug 19 10:42:27 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Fri Aug 19 10:42:28 CLT 2016 - REG obtenido: insert into RegRx values (5,1,'20160819','7000000203',0,0,0,convert(datetime,'2016-08-19 10:40:05.0',102),'336975709327','','336975','709327','          ','90','192')
+Fri Aug 19 10:42:29 CLT 2016 - Conexión a URL con registros de posición
+Fri Aug 19 10:42:29 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 2 numero de trama: 2
+Fri Aug 19 10:42:30 CLT 2016 - Conexión a URL con registros de posición
+Fri Aug 19 10:42:30 CLT 2016 - Lectura de trama vehiculo : FDTV67 numero de trama: 3
+Fri Aug 19 10:42:31 CLT 2016 - Fin lectura
+Fri Aug 19 10:42:31 CLT 2016 - Se cierra conexion
+
+Fri Aug 19 10:43:32 CLT 2016 - Conexión a URL con Autentificacion Token
+Fri Aug 19 10:43:32 CLT 2016 - Conexión a URL vehicles
+Fri Aug 19 10:43:33 CLT 2016 - Conexión a URL con registros de posición
+Fri Aug 19 10:43:33 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Fri Aug 19 10:43:34 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160819','7000000203',0,0,0,convert(datetime,'2016-08-19 10:40:26.0',102),'337009709342','','337009','709342','          ','43','268')
+Fri Aug 19 10:43:34 CLT 2016 - REG obtenido: insert into RegRx values (25,3086,'20160819','7000000203',0,0,0,convert(datetime,'2016-08-19 10:41:02.0',102),'337032709353','','337032','709353','          ','14','250')
+Fri Aug 19 10:43:35 CLT 2016 - Conexión a URL con registros de posición
+Fri Aug 19 10:43:35 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 2 numero de trama: 2
+Fri Aug 19 10:43:37 CLT 2016 - Conexión a URL con registros de posición
+Fri Aug 19 10:43:37 CLT 2016 - Lectura de trama vehiculo : FDTV67 numero de trama: 3
+Fri Aug 19 10:43:37 CLT 2016 - Fin lectura
+Fri Aug 19 10:43:37 CLT 2016 - Se cierra conexion
+
+Fri Aug 19 10:46:34 CLT 2016 - Conexión a URL con Autentificacion Token
+Fri Aug 19 10:46:35 CLT 2016 - Conexión a URL vehicles
+Fri Aug 19 10:46:38 CLT 2016 - Conexión a URL con registros de posición
+Fri Aug 19 10:46:38 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Fri Aug 19 10:46:38 CLT 2016 - REG obtenido: insert into RegRx values (23,3086,'20160819','7000000203',0,0,0,convert(datetime,'2016-08-19 10:41:39.0',102),'337032709356','','337032','709356','          ','0','291')
+Fri Aug 19 10:46:40 CLT 2016 - Conexión a URL con registros de posición
+Fri Aug 19 10:46:40 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 2 numero de trama: 2
+Fri Aug 19 10:46:41 CLT 2016 - Conexión a URL con registros de posición
+Fri Aug 19 10:46:41 CLT 2016 - Lectura de trama vehiculo : FDTV67 numero de trama: 3
+Fri Aug 19 10:46:41 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160819','7000000206',0,0,0,convert(datetime,'2016-08-19 10:37:56.0',102),'334246707798','','334246','707798','          ','0','53')
+Fri Aug 19 10:46:41 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160819','7000000206',0,0,0,convert(datetime,'2016-08-19 10:42:01.0',102),'334246707798','','334246','707798','          ','0','53')
+Fri Aug 19 10:46:41 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160819','7000000206',0,0,0,convert(datetime,'2016-08-19 10:42:44.0',102),'334246707800','','334246','707800','          ','8','273')
+Fri Aug 19 10:46:42 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160819','7000000206',0,0,0,convert(datetime,'2016-08-19 10:43:05.0',102),'334247707804','','334247','707804','          ','3','347')
+Fri Aug 19 10:46:42 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160819','7000000206',0,0,0,convert(datetime,'2016-08-19 10:43:21.0',102),'334236707809','','334236','707809','          ','40','311')
+Fri Aug 19 10:46:42 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160819','7000000206',0,0,0,convert(datetime,'2016-08-19 10:43:36.0',102),'334224707823','','334224','707823','          ','41','348')
+Fri Aug 19 10:46:42 CLT 2016 - Fin lectura
+Fri Aug 19 10:46:42 CLT 2016 - Se cierra conexion
+
+Fri Aug 19 10:47:42 CLT 2016 - Conexión a URL con Autentificacion Token
+Fri Aug 19 10:47:43 CLT 2016 - Conexión a URL vehicles
+Fri Aug 19 10:47:45 CLT 2016 - Conexión a URL con registros de posición
+Fri Aug 19 10:47:45 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Fri Aug 19 10:47:46 CLT 2016 - Conexión a URL con registros de posición
+Fri Aug 19 10:47:46 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 2 numero de trama: 2
+Fri Aug 19 10:47:48 CLT 2016 - Conexión a URL con registros de posición
+Fri Aug 19 10:47:48 CLT 2016 - Lectura de trama vehiculo : FDTV67 numero de trama: 3
+Fri Aug 19 10:47:48 CLT 2016 - Fin lectura
+Fri Aug 19 10:47:48 CLT 2016 - Se cierra conexion
+
+Fri Aug 19 10:48:15 CLT 2016 - Conexión a URL con Autentificacion Token
+Fri Aug 19 10:48:15 CLT 2016 - Conexión a URL vehicles
+Fri Aug 19 10:48:16 CLT 2016 - Conexión a URL con registros de posición
+Fri Aug 19 10:48:16 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Fri Aug 19 10:48:18 CLT 2016 - Conexión a URL con registros de posición
+Fri Aug 19 10:48:18 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 2 numero de trama: 2
+Fri Aug 19 10:48:20 CLT 2016 - Conexión a URL con registros de posición
+Fri Aug 19 10:48:20 CLT 2016 - Lectura de trama vehiculo : FDTV67 numero de trama: 3
+Fri Aug 19 10:48:20 CLT 2016 - Fin lectura
+Fri Aug 19 10:48:20 CLT 2016 - Se cierra conexion
+
+Fri Aug 19 10:48:59 CLT 2016 - Conexión a URL con Autentificacion Token
+Fri Aug 19 10:49:00 CLT 2016 - Conexión a URL vehicles
+Fri Aug 19 10:49:01 CLT 2016 - Conexión a URL con registros de posición
+Fri Aug 19 10:49:01 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Fri Aug 19 10:49:03 CLT 2016 - Conexión a URL con registros de posición
+Fri Aug 19 10:49:03 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 2 numero de trama: 2
+Fri Aug 19 10:49:04 CLT 2016 - Conexión a URL con registros de posición
+Fri Aug 19 10:49:04 CLT 2016 - Lectura de trama vehiculo : FDTV67 numero de trama: 3
+Fri Aug 19 10:49:04 CLT 2016 - Fin lectura
+Fri Aug 19 10:49:04 CLT 2016 - Se cierra conexion
+
+Fri Aug 19 10:50:05 CLT 2016 - Conexión a URL con Autentificacion Token
+Fri Aug 19 10:50:05 CLT 2016 - Conexión a URL vehicles
+Fri Aug 19 10:50:07 CLT 2016 - Conexión a URL con registros de posición
+Fri Aug 19 10:50:07 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Fri Aug 19 10:50:08 CLT 2016 - Conexión a URL con registros de posición
+Fri Aug 19 10:50:08 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 2 numero de trama: 2
+Fri Aug 19 10:50:10 CLT 2016 - Conexión a URL con registros de posición
+Fri Aug 19 10:50:10 CLT 2016 - Lectura de trama vehiculo : FDTV67 numero de trama: 3
+Fri Aug 19 10:50:10 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160819','7000000206',0,0,0,convert(datetime,'2016-08-19 10:47:10.0',102),'333891707630','','333891','707630','          ','51','49')
+Fri Aug 19 10:50:10 CLT 2016 - Fin lectura
+Fri Aug 19 10:50:10 CLT 2016 - Se cierra conexion
+
+Fri Aug 19 10:51:12 CLT 2016 - Conexión a URL con Autentificacion Token
+Fri Aug 19 10:51:12 CLT 2016 - Conexión a URL vehicles
+Fri Aug 19 10:51:13 CLT 2016 - Conexión a URL con registros de posición
+Fri Aug 19 10:51:13 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Fri Aug 19 10:51:14 CLT 2016 - Conexión a URL con registros de posición
+Fri Aug 19 10:51:14 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 2 numero de trama: 2
+Fri Aug 19 10:51:16 CLT 2016 - Conexión a URL con registros de posición
+Fri Aug 19 10:51:16 CLT 2016 - Lectura de trama vehiculo : FDTV67 numero de trama: 3
+Fri Aug 19 10:51:16 CLT 2016 - Fin lectura
+Fri Aug 19 10:51:16 CLT 2016 - Se cierra conexion
+
+Fri Aug 19 10:52:17 CLT 2016 - Conexión a URL con Autentificacion Token
+Fri Aug 19 10:52:17 CLT 2016 - Conexión a URL vehicles
+Fri Aug 19 10:52:18 CLT 2016 - Conexión a URL con registros de posición
+Fri Aug 19 10:52:18 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Fri Aug 19 10:52:20 CLT 2016 - Conexión a URL con registros de posición
+Fri Aug 19 10:52:20 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 2 numero de trama: 2
+Fri Aug 19 10:52:21 CLT 2016 - Conexión a URL con registros de posición
+Fri Aug 19 10:52:21 CLT 2016 - Lectura de trama vehiculo : FDTV67 numero de trama: 3
+Fri Aug 19 10:52:21 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160819','7000000206',0,0,0,convert(datetime,'2016-08-19 10:49:35.0',102),'333801707521','','333801','707521','          ','20','97')
+Fri Aug 19 10:52:21 CLT 2016 - Fin lectura
+Fri Aug 19 10:52:21 CLT 2016 - Se cierra conexion
+
+Fri Aug 19 11:06:42 CLT 2016 - Conexión a URL con Autentificacion Token
+Fri Aug 19 11:06:43 CLT 2016 - Conexión a URL vehicles
+Fri Aug 19 11:06:44 CLT 2016 - Conexión a URL con registros de posición
+Fri Aug 19 11:06:44 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Fri Aug 19 11:06:44 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160819','7000000203',0,0,0,convert(datetime,'2016-08-19 10:29:29.0',102),'335974708449','','335974','708449','          ','120','203')
+Fri Aug 19 11:06:45 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160819','7000000203',0,0,0,convert(datetime,'2016-08-19 10:34:28.0',102),'336671709116','','336671','709116','          ','114','238')
+Fri Aug 19 11:06:45 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160819','7000000203',0,0,0,convert(datetime,'2016-08-19 10:37:15.0',102),'336748709248','','336748','709248','          ','24','157')
+Fri Aug 19 11:06:45 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160819','7000000203',0,0,0,convert(datetime,'2016-08-19 10:38:45.0',102),'336818709227','','336818','709227','          ','54','204')
+Fri Aug 19 11:06:45 CLT 2016 - REG obtenido: insert into RegRx values (5,1,'20160819','7000000203',0,0,0,convert(datetime,'2016-08-19 10:39:03.0',102),'336850709253','','336850','709253','          ','98','214')
+Fri Aug 19 11:06:45 CLT 2016 - REG obtenido: insert into RegRx values (5,1,'20160819','7000000203',0,0,0,convert(datetime,'2016-08-19 10:40:05.0',102),'336975709327','','336975','709327','          ','90','192')
+Fri Aug 19 11:06:45 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160819','7000000203',0,0,0,convert(datetime,'2016-08-19 10:40:26.0',102),'337009709342','','337009','709342','          ','43','268')
+Fri Aug 19 11:06:45 CLT 2016 - REG obtenido: insert into RegRx values (25,3086,'20160819','7000000203',0,0,0,convert(datetime,'2016-08-19 10:41:02.0',102),'337032709353','','337032','709353','          ','14','250')
+Fri Aug 19 11:06:45 CLT 2016 - REG obtenido: insert into RegRx values (23,3086,'20160819','7000000203',0,0,0,convert(datetime,'2016-08-19 10:41:39.0',102),'337032709356','','337032','709356','          ','0','291')
+Fri Aug 19 11:06:46 CLT 2016 - Conexión a URL con registros de posición
+Fri Aug 19 11:06:46 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 2 numero de trama: 2
+Fri Aug 19 11:06:47 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160818','7000000204',0,0,0,convert(datetime,'2016-08-18 16:46:50.0',102),'335326706816','','335326','706816','          ','19','346')
+Fri Aug 19 11:06:47 CLT 2016 - REG obtenido: insert into RegRx values (5,1,'20160818','7000000204',0,0,0,convert(datetime,'2016-08-18 16:47:57.0',102),'335228706767','','335228','706767','          ','101','23')
+Fri Aug 19 11:06:47 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160818','7000000204',0,0,0,convert(datetime,'2016-08-18 16:52:48.0',102),'334558706571','','334558','706571','          ','101','324')
+Fri Aug 19 11:06:47 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160818','7000000204',0,0,0,convert(datetime,'2016-08-18 16:53:43.0',102),'334435706603','','334435','706603','          ','96','13')
+Fri Aug 19 11:06:47 CLT 2016 - REG obtenido: insert into RegRx values (5,1,'20160818','7000000204',0,0,0,convert(datetime,'2016-08-18 16:53:45.0',102),'334429706601','','334429','706601','          ','96','13')
+Fri Aug 19 11:06:47 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160818','7000000204',0,0,0,convert(datetime,'2016-08-18 16:55:00.0',102),'334298706602','','334298','706602','          ','35','69')
+Fri Aug 19 11:06:47 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160818','7000000204',0,0,0,convert(datetime,'2016-08-18 16:59:03.0',102),'334326706479','','334326','706479','          ','17','68')
+Fri Aug 19 11:06:47 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160818','7000000204',0,0,0,convert(datetime,'2016-08-18 16:59:40.0',102),'334310706474','','334310','706474','          ','14','61')
+Fri Aug 19 11:06:47 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160818','7000000204',0,0,0,convert(datetime,'2016-08-18 17:04:46.0',102),'334320706406','','334320','706406','          ','6','181')
+Fri Aug 19 11:06:48 CLT 2016 - Conexión a URL con registros de posición
+Fri Aug 19 11:06:48 CLT 2016 - Lectura de trama vehiculo : FDTV67 numero de trama: 3
+Fri Aug 19 11:06:48 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160819','7000000205',0,0,0,convert(datetime,'2016-08-19 10:52:10.0',102),'333855707458','','333855','707458','          ','0','323')
+Fri Aug 19 11:06:48 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160819','7000000205',0,0,0,convert(datetime,'2016-08-19 10:52:31.0',102),'333851707455','','333851','707455','          ','8','356')
+Fri Aug 19 11:06:49 CLT 2016 - REG obtenido: insert into RegRx values (23,1,'20160819','7000000205',0,0,0,convert(datetime,'2016-08-19 10:52:56.0',102),'333849707456','','333849','707456','          ','0','11')
+Fri Aug 19 11:06:49 CLT 2016 - REG obtenido: insert into RegRx values (22,1,'20160819','7000000205',0,0,0,convert(datetime,'2016-08-19 10:55:47.0',102),'333849707456','','333849','707456','          ','0','11')
+Fri Aug 19 11:06:49 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160819','7000000205',0,0,0,convert(datetime,'2016-08-19 10:56:22.0',102),'333851707456','','333851','707456','          ','8','226')
+Fri Aug 19 11:06:49 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160819','7000000205',0,0,0,convert(datetime,'2016-08-19 10:56:38.0',102),'333855707459','','333855','707459','          ','11','155')
+Fri Aug 19 11:06:49 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160819','7000000205',0,0,0,convert(datetime,'2016-08-19 10:57:02.0',102),'333857707458','','333857','707458','          ','9','82')
+Fri Aug 19 11:06:49 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160819','7000000205',0,0,0,convert(datetime,'2016-08-19 10:58:34.0',102),'333805707395','','333805','707395','          ','30','343')
+Fri Aug 19 11:06:49 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160819','7000000205',0,0,0,convert(datetime,'2016-08-19 11:00:41.0',102),'333718707376','','333718','707376','          ','19','64')
+Fri Aug 19 11:06:49 CLT 2016 - Fin lectura
+Fri Aug 19 11:06:49 CLT 2016 - Se cierra conexion
+
+Fri Aug 19 11:07:49 CLT 2016 - Conexión a URL con Autentificacion Token
+Fri Aug 19 11:07:50 CLT 2016 - Conexión a URL vehicles
+Fri Aug 19 11:07:51 CLT 2016 - Conexión a URL con registros de posición
+Fri Aug 19 11:07:51 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Fri Aug 19 11:07:52 CLT 2016 - Conexión a URL con registros de posición
+Fri Aug 19 11:07:52 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 2 numero de trama: 2
+Fri Aug 19 11:07:54 CLT 2016 - Conexión a URL con registros de posición
+Fri Aug 19 11:07:54 CLT 2016 - Lectura de trama vehiculo : FDTV67 numero de trama: 3
+Fri Aug 19 11:07:54 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160819','7000000205',0,0,0,convert(datetime,'2016-08-19 11:05:40.0',102),'333703707059','','333703','707059','          ','0','98')
+Fri Aug 19 11:07:54 CLT 2016 - Fin lectura
+Fri Aug 19 11:07:54 CLT 2016 - Se cierra conexion
+
+Fri Aug 19 11:08:55 CLT 2016 - Conexión a URL con Autentificacion Token
+Fri Aug 19 11:08:55 CLT 2016 - Conexión a URL vehicles
+Fri Aug 19 11:08:56 CLT 2016 - Conexión a URL con registros de posición
+Fri Aug 19 11:08:56 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Fri Aug 19 11:08:58 CLT 2016 - Conexión a URL con registros de posición
+Fri Aug 19 11:08:58 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 2 numero de trama: 2
+Fri Aug 19 11:08:59 CLT 2016 - Conexión a URL con registros de posición
+Fri Aug 19 11:08:59 CLT 2016 - Lectura de trama vehiculo : FDTV67 numero de trama: 3
+Fri Aug 19 11:08:59 CLT 2016 - REG obtenido: insert into rxc4 values ('111111111111111','0','12,712,FDTV67,190816,1357540,0,0,10,357666050776688,43.0,2016-08-19T13:57:54,true,2016-08-19T14:06:44.794226,,0,712,0,99.0,16.0934333831,707426','2016-08-19 10:57:54.0','17','0')
+Fri Aug 19 11:09:00 CLT 2016 - REG obtenido: insert into rxc4 values ('111111111111111','0','12,712,FDTV67,190816,1358340,0,0,19.0,357666050776688,17.0,2016-08-19T13:58:34,true,2016-08-19T14:06:46.184149,,0,712,0,99.0,30.57746333805,707395','2016-08-19 10:58:34.0','17','0')
+Fri Aug 19 11:09:00 CLT 2016 - REG obtenido: insert into rxc4 values ('111111111111111','0','12,712,FDTV67,190816,1402210,0,0,37.0,357666050776688,98.0,2016-08-19T14:02:21,true,2016-08-19T14:06:50.633832,,0,712,0,99.0,59.54558333734,707236','2016-08-19 11:02:21.0','17','0')
+Fri Aug 19 11:09:00 CLT 2016 - REG obtenido: insert into RegRx values (23,1,'20160819','7000000205',0,0,0,convert(datetime,'2016-08-19 11:06:40.0',102),'333705707042','','333705','707042','          ','0','95')
+Fri Aug 19 11:09:00 CLT 2016 - Fin lectura
+Fri Aug 19 11:09:00 CLT 2016 - Se cierra conexion
+
+Fri Aug 19 15:51:16 CLT 2016 - Conexión a URL con Autentificacion Token
+Fri Aug 19 15:51:16 CLT 2016 - Conexión a URL vehicles
+Fri Aug 19 15:51:18 CLT 2016 - Conexión a URL con registros de posición
+Fri Aug 19 15:51:18 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Fri Aug 19 15:51:22 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: Incorrect syntax near ','.
+
+Fri Aug 19 15:51:23 CLT 2016 - Conexión a URL con Autentificacion Token
+Fri Aug 19 15:51:23 CLT 2016 - Conexión a URL vehicles
+Fri Aug 19 15:51:24 CLT 2016 - Conexión a URL con registros de posición
+Fri Aug 19 15:51:24 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Fri Aug 19 15:51:24 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: Incorrect syntax near ','.
+
+Fri Aug 19 15:51:25 CLT 2016 - Conexión a URL con Autentificacion Token
+Fri Aug 19 15:51:25 CLT 2016 - Conexión a URL vehicles
+Fri Aug 19 15:51:27 CLT 2016 - Conexión a URL con registros de posición
+Fri Aug 19 15:51:27 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Fri Aug 19 15:51:27 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: Incorrect syntax near ','.
+
+Fri Aug 19 15:51:30 CLT 2016 - Conexión a URL con Autentificacion Token
+Fri Aug 19 15:51:31 CLT 2016 - Conexión a URL vehicles
+Fri Aug 19 15:51:32 CLT 2016 - Conexión a URL con registros de posición
+Fri Aug 19 15:51:32 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Fri Aug 19 15:51:32 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: Incorrect syntax near ','.
+
+Fri Aug 19 15:51:36 CLT 2016 - Conexión a URL con Autentificacion Token
+Fri Aug 19 15:51:36 CLT 2016 - Conexión a URL vehicles
+Fri Aug 19 15:51:37 CLT 2016 - Conexión a URL con registros de posición
+Fri Aug 19 15:51:37 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Fri Aug 19 15:51:37 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: Incorrect syntax near ','.
+
+Fri Aug 19 15:51:38 CLT 2016 - Conexión a URL con Autentificacion Token
+Fri Aug 19 15:51:38 CLT 2016 - Conexión a URL vehicles
+Fri Aug 19 15:51:39 CLT 2016 - Conexión a URL con registros de posición
+Fri Aug 19 15:51:39 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Fri Aug 19 15:51:39 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: Incorrect syntax near ','.
+
+Fri Aug 19 15:51:39 CLT 2016 - Conexión a URL con Autentificacion Token
+Fri Aug 19 15:51:40 CLT 2016 - Conexión a URL vehicles
+Fri Aug 19 15:51:41 CLT 2016 - Conexión a URL con registros de posición
+Fri Aug 19 15:51:41 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Fri Aug 19 15:51:41 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: Incorrect syntax near ','.
+
+Fri Aug 19 15:51:41 CLT 2016 - Conexión a URL con Autentificacion Token
+Fri Aug 19 15:51:41 CLT 2016 - Conexión a URL vehicles
+Fri Aug 19 15:51:42 CLT 2016 - Conexión a URL con registros de posición
+Fri Aug 19 15:51:42 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Fri Aug 19 15:51:42 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: Incorrect syntax near ','.
+
+Fri Aug 19 15:51:43 CLT 2016 - Conexión a URL con Autentificacion Token
+Fri Aug 19 15:51:43 CLT 2016 - Conexión a URL vehicles
+Fri Aug 19 15:51:44 CLT 2016 - Conexión a URL con registros de posición
+Fri Aug 19 15:51:44 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Fri Aug 19 15:51:44 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: Incorrect syntax near ','.
+
+Fri Aug 19 15:51:45 CLT 2016 - Conexión a URL con Autentificacion Token
+Fri Aug 19 15:51:45 CLT 2016 - Conexión a URL vehicles
+Fri Aug 19 15:51:46 CLT 2016 - Conexión a URL con registros de posición
+Fri Aug 19 15:51:46 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Fri Aug 19 15:51:46 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: Incorrect syntax near ','.
+
+Fri Aug 19 16:13:02 CLT 2016 - Conexión a URL con Autentificacion Token
+Fri Aug 19 16:13:05 CLT 2016 - Conexión a URL vehicles
+Fri Aug 19 16:13:18 CLT 2016 - Conexión a URL con registros de posición
+Fri Aug 19 16:13:18 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Fri Aug 19 16:13:20 CLT 2016 - REG obtenido: insert into RegRx values (22,1,'20160819','7000000203',0,0,0,convert(datetime,'2016-08-19 16:02:20.0',102),'335061706766','','335061','706766','          ','0','142')
+Fri Aug 19 16:13:21 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160819','7000000203',0,0,0,convert(datetime,'2016-08-19 16:02:57.0',102),'335061706766','','335061','706766','          ','0','33')
+Fri Aug 19 16:13:21 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160819','7000000203',0,0,0,convert(datetime,'2016-08-19 16:03:14.0',102),'335060706767','','335060','706767','          ','1','290')
+Fri Aug 19 16:13:21 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160819','7000000203',0,0,0,convert(datetime,'2016-08-19 16:03:41.0',102),'335057706769','','335057','706769','          ','4','24')
+Fri Aug 19 16:13:21 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160819','7000000203',0,0,0,convert(datetime,'2016-08-19 16:04:11.0',102),'335048706763','','335048','706763','          ','12','84')
+Fri Aug 19 16:13:21 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160819','7000000203',0,0,0,convert(datetime,'2016-08-19 16:05:32.0',102),'335081706701','','335081','706701','          ','14','203')
+Fri Aug 19 16:13:21 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160819','7000000203',0,0,0,convert(datetime,'2016-08-19 16:06:07.0',102),'335106706713','','335106','706713','          ','17','149')
+Fri Aug 19 16:13:21 CLT 2016 - REG obtenido: insert into RegRx values (25,3600,'20160819','7000000203',0,0,0,convert(datetime,'2016-08-19 16:07:22.0',102),'335022706666','','335022','706666','          ','38','89')
+Fri Aug 19 16:13:22 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160819','7000000203',0,0,0,convert(datetime,'2016-08-19 16:08:04.0',102),'335027706631','','335027','706631','          ','27','59')
+Fri Aug 19 16:13:22 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160819','7000000203',0,0,0,convert(datetime,'2016-08-19 16:08:43.0',102),'335014706623','','335014','706623','          ','12','110')
+Fri Aug 19 16:13:29 CLT 2016 - Conexión a URL con registros de posición
+Fri Aug 19 16:13:29 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 2 numero de trama: 2
+Fri Aug 19 16:13:39 CLT 2016 - Conexión a URL con registros de posición
+Fri Aug 19 16:13:39 CLT 2016 - Lectura de trama vehiculo : FDTV67 numero de trama: 3
+Fri Aug 19 16:13:39 CLT 2016 - REG obtenido: insert into RegRx values (22,1,'20160819','7000000205',0,0,0,convert(datetime,'2016-08-19 15:50:37.0',102),'336551709157','','336551','709157','          ','0','8')
+Fri Aug 19 16:13:39 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160819','7000000205',0,0,0,convert(datetime,'2016-08-19 15:50:57.0',102),'336550709154','','336550','709154','          ','11','69')
+Fri Aug 19 16:13:39 CLT 2016 - REG obtenido: insert into RegRx values (25,3079,'20160819','7000000205',0,0,0,convert(datetime,'2016-08-19 15:51:52.0',102),'336574709125','','336574','709125','          ','11','77')
+Fri Aug 19 16:13:39 CLT 2016 - REG obtenido: insert into RegRx values (25,3079,'20160819','7000000205',0,0,0,convert(datetime,'2016-08-19 15:52:33.0',102),'336564709098','','336564','709098','          ','0','135')
+Fri Aug 19 16:13:39 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160819','7000000205',0,0,0,convert(datetime,'2016-08-19 15:52:58.0',102),'336561709086','','336561','709086','          ','40','71')
+Fri Aug 19 16:13:39 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160819','7000000205',0,0,0,convert(datetime,'2016-08-19 15:55:28.0',102),'336489708867','','336489','708867','          ','25','134')
+Fri Aug 19 16:13:39 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160819','7000000205',0,0,0,convert(datetime,'2016-08-19 15:59:20.0',102),'336717708543','','336717','708543','          ','54','104')
+Fri Aug 19 16:13:39 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160819','7000000205',0,0,0,convert(datetime,'2016-08-19 16:00:46.0',102),'336711708446','','336711','708446','          ','38','40')
+Fri Aug 19 16:13:40 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160819','7000000205',0,0,0,convert(datetime,'2016-08-19 16:05:45.0',102),'336375708128','','336375','708128','          ','43','41')
+Fri Aug 19 16:13:40 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160819','7000000205',0,0,0,convert(datetime,'2016-08-19 16:07:37.0',102),'336294708046','','336294','708046','          ','33','87')
+Fri Aug 19 16:13:40 CLT 2016 - Fin lectura
+Fri Aug 19 16:13:40 CLT 2016 - Se cierra conexion
+
+Fri Aug 19 16:14:44 CLT 2016 - Conexión a URL con Autentificacion Token
+Fri Aug 19 16:14:45 CLT 2016 - Conexión a URL vehicles
+Fri Aug 19 16:14:46 CLT 2016 - Conexión a URL con registros de posición
+Fri Aug 19 16:14:46 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Fri Aug 19 16:14:47 CLT 2016 - Conexión a URL con registros de posición
+Fri Aug 19 16:14:47 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 2 numero de trama: 2
+Fri Aug 19 16:14:48 CLT 2016 - Conexión a URL con registros de posición
+Fri Aug 19 16:14:48 CLT 2016 - Lectura de trama vehiculo : FDTV67 numero de trama: 3
+Fri Aug 19 16:14:49 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160819','7000000205',0,0,0,convert(datetime,'2016-08-19 16:12:36.0',102),'336416707612','','336416','707612','          ','20','103')
+Fri Aug 19 16:14:49 CLT 2016 - Fin lectura
+Fri Aug 19 16:14:49 CLT 2016 - Se cierra conexion
+
+Fri Aug 19 16:15:57 CLT 2016 - Conexión a URL con Autentificacion Token
+Fri Aug 19 16:15:58 CLT 2016 - Conexión a URL vehicles
+Fri Aug 19 16:16:01 CLT 2016 - Conexión a URL con registros de posición
+Fri Aug 19 16:16:01 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Fri Aug 19 16:16:01 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160819','7000000203',0,0,0,convert(datetime,'2016-08-19 16:13:23.0',102),'335072706384','','335072','706384','          ','16','59')
+Fri Aug 19 16:16:06 CLT 2016 - Conexión a URL con registros de posición
+Fri Aug 19 16:16:06 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 2 numero de trama: 2

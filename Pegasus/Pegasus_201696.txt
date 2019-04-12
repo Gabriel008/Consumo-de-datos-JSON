@@ -1,0 +1,361 @@
+Tue Sep 06 15:18:43 CLT 2016 - Conexión a URL con Autentificacion Token
+Tue Sep 06 15:18:43 CLT 2016 - Conexión a URL vehicles
+Tue Sep 06 15:18:44 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:18:44 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Tue Sep 06 15:18:44 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:18:44 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 2 numero de trama: 2
+Tue Sep 06 15:18:45 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:18:45 CLT 2016 - Lectura de trama vehiculo : FDTV67 numero de trama: 3
+Tue Sep 06 15:18:49 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160906','7000000204',0,0,0,convert(datetime,'2016-09-06 11:15:42.0',102),'3314617156','','331461','7156','          ','78','337')
+Tue Sep 06 15:18:50 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160906','7000000204',0,0,0,convert(datetime,'2016-09-06 11:18:52.0',102),'331107715593','','331107','715593','          ','69','30')
+Tue Sep 06 15:18:50 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160906','7000000204',0,0,0,convert(datetime,'2016-09-06 11:19:23.0',102),'331084715543','','331084','715543','          ','48','85')
+Tue Sep 06 15:18:50 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160906','7000000204',0,0,0,convert(datetime,'2016-09-06 11:19:37.0',102),'331093715542','','331093','715542','          ','35','254')
+Tue Sep 06 15:18:50 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160906','7000000204',0,0,0,convert(datetime,'2016-09-06 11:21:50.0',102),'331056715727','','331056','715727','          ','61','332')
+Tue Sep 06 15:18:50 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160906','7000000204',0,0,0,convert(datetime,'2016-09-06 11:23:01.0',102),'330985715736','','330985','715736','          ','33','288')
+Tue Sep 06 15:18:51 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160906','7000000204',0,0,0,convert(datetime,'2016-09-06 11:26:49.0',102),'330937716027','','330937','716027','          ','54','325')
+Tue Sep 06 15:18:51 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160906','7000000204',0,0,0,convert(datetime,'2016-09-06 11:27:33.0',102),'330912716073','','330912','716073','          ','22','279')
+Tue Sep 06 15:18:51 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160906','7000000204',0,0,0,convert(datetime,'2016-09-06 11:29:33.0',102),'330889716154','','330889','716154','          ','41','325')
+Tue Sep 06 15:18:51 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160906','7000000204',0,0,0,convert(datetime,'2016-09-06 11:29:55.0',102),'330869716170','','330869','716170','          ','49','294')
+Tue Sep 06 15:18:51 CLT 2016 - Fin lectura
+Tue Sep 06 15:18:51 CLT 2016 - Se cierra conexion
+
+Tue Sep 06 15:26:25 CLT 2016 - Conexión a URL con Autentificacion Token
+Tue Sep 06 15:26:26 CLT 2016 - Conexión a URL vehicles
+Tue Sep 06 15:26:27 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:26:27 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Tue Sep 06 15:26:28 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:26:28 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 2 numero de trama: 2
+Tue Sep 06 15:26:31 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:26:31 CLT 2016 - Lectura de trama vehiculo : FDTV67 numero de trama: 3
+Tue Sep 06 15:26:31 CLT 2016 - REG obtenido: insert into RegRx values (23,1,'20160906','7000000204',0,0,0,convert(datetime,'2016-09-06 12:11:13.0',102),'330236716421','','330236','716421','          ','0','318')
+Tue Sep 06 15:26:31 CLT 2016 - REG obtenido: insert into RegRx values (1,1,'20160906','7000000204',0,0,0,convert(datetime,'2016-09-06 12:11:17.0',102),'300000700000','','300000','700000','          ','0','0')
+Tue Sep 06 15:26:31 CLT 2016 - REG obtenido: insert into RegRx values (1,1,'20160906','7000000204',0,0,0,convert(datetime,'2016-09-06 12:11:21.0',102),'300000700000','','300000','700000','          ','0','0')
+Tue Sep 06 15:26:31 CLT 2016 - REG obtenido: insert into RegRx values (1,1,'20160906','7000000204',0,0,0,convert(datetime,'2016-09-06 12:11:22.0',102),'300000700000','','300000','700000','          ','0','0')
+Tue Sep 06 15:26:31 CLT 2016 - REG obtenido: insert into RegRx values (22,1,'20160906','7000000204',0,0,0,convert(datetime,'2016-09-06 12:27:42.0',102),'330236716421','','330236','716421','          ','16','318')
+Tue Sep 06 15:26:32 CLT 2016 - REG obtenido: insert into RegRx values (23,1,'20160906','7000000204',0,0,0,convert(datetime,'2016-09-06 12:28:27.0',102),'330236716421','','330236','716421','          ','1','318')
+Tue Sep 06 15:26:32 CLT 2016 - REG obtenido: insert into RegRx values (1,1,'20160906','7000000204',0,0,0,convert(datetime,'2016-09-06 12:28:32.0',102),'300000700000','','300000','700000','          ','0','0')
+Tue Sep 06 15:26:32 CLT 2016 - REG obtenido: insert into RegRx values (1,1,'20160906','7000000204',0,0,0,convert(datetime,'2016-09-06 12:28:36.0',102),'300000700000','','300000','700000','          ','0','0')
+Tue Sep 06 15:26:32 CLT 2016 - REG obtenido: insert into RegRx values (1,1,'20160906','7000000204',0,0,0,convert(datetime,'2016-09-06 12:28:41.0',102),'300000700000','','300000','700000','          ','0','0')
+Tue Sep 06 15:26:32 CLT 2016 - REG obtenido: insert into RegRx values (22,1,'20160906','7000000204',0,0,0,convert(datetime,'2016-09-06 12:33:41.0',102),'330236716421','','330236','716421','          ','5','318')
+Tue Sep 06 15:26:32 CLT 2016 - Fin lectura
+Tue Sep 06 15:26:32 CLT 2016 - Se cierra conexion
+
+Tue Sep 06 15:27:33 CLT 2016 - Conexión a URL con Autentificacion Token
+Tue Sep 06 15:27:34 CLT 2016 - Conexión a URL vehicles
+Tue Sep 06 15:27:34 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:27:34 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Tue Sep 06 15:27:35 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:27:35 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 2 numero de trama: 2
+Tue Sep 06 15:27:36 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:27:36 CLT 2016 - Lectura de trama vehiculo : FDTV67 numero de trama: 3
+Tue Sep 06 15:27:37 CLT 2016 - Fin lectura
+Tue Sep 06 15:27:37 CLT 2016 - Se cierra conexion
+
+Tue Sep 06 15:28:37 CLT 2016 - Conexión a URL con Autentificacion Token
+Tue Sep 06 15:28:37 CLT 2016 - Conexión a URL vehicles
+Tue Sep 06 15:28:38 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:28:38 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Tue Sep 06 15:28:38 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:28:38 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 2 numero de trama: 2
+Tue Sep 06 15:28:39 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:28:39 CLT 2016 - Lectura de trama vehiculo : FDTV67 numero de trama: 3
+Tue Sep 06 15:28:40 CLT 2016 - Fin lectura
+Tue Sep 06 15:28:40 CLT 2016 - Se cierra conexion
+
+Tue Sep 06 15:29:41 CLT 2016 - Conexión a URL con Autentificacion Token
+Tue Sep 06 15:29:41 CLT 2016 - Conexión a URL vehicles
+Tue Sep 06 15:29:41 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:29:41 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Tue Sep 06 15:29:41 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:29:41 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 2 numero de trama: 2
+Tue Sep 06 15:29:43 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:29:43 CLT 2016 - Lectura de trama vehiculo : FDTV67 numero de trama: 3
+Tue Sep 06 15:29:44 CLT 2016 - Fin lectura
+Tue Sep 06 15:29:44 CLT 2016 - Se cierra conexion
+
+Tue Sep 06 15:30:44 CLT 2016 - Conexión a URL con Autentificacion Token
+Tue Sep 06 15:30:45 CLT 2016 - Conexión a URL vehicles
+Tue Sep 06 15:30:45 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:30:45 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Tue Sep 06 15:30:45 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:30:45 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 2 numero de trama: 2
+Tue Sep 06 15:30:46 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:30:46 CLT 2016 - Lectura de trama vehiculo : FDTV67 numero de trama: 3
+Tue Sep 06 15:30:47 CLT 2016 - Fin lectura
+Tue Sep 06 15:30:47 CLT 2016 - Se cierra conexion
+
+Tue Sep 06 15:31:48 CLT 2016 - Conexión a URL con Autentificacion Token
+Tue Sep 06 15:31:48 CLT 2016 - Conexión a URL vehicles
+Tue Sep 06 15:31:48 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:31:48 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Tue Sep 06 15:31:49 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:31:49 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 2 numero de trama: 2
+Tue Sep 06 15:31:50 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:31:50 CLT 2016 - Lectura de trama vehiculo : FDTV67 numero de trama: 3
+Tue Sep 06 15:31:51 CLT 2016 - Fin lectura
+Tue Sep 06 15:31:51 CLT 2016 - Se cierra conexion
+
+Tue Sep 06 15:32:51 CLT 2016 - Conexión a URL con Autentificacion Token
+Tue Sep 06 15:32:51 CLT 2016 - Conexión a URL vehicles
+Tue Sep 06 15:32:52 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:32:52 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Tue Sep 06 15:32:52 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:32:52 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 2 numero de trama: 2
+Tue Sep 06 15:32:53 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:32:53 CLT 2016 - Lectura de trama vehiculo : FDTV67 numero de trama: 3
+Tue Sep 06 15:32:54 CLT 2016 - Fin lectura
+Tue Sep 06 15:32:54 CLT 2016 - Se cierra conexion
+
+Tue Sep 06 15:33:54 CLT 2016 - Conexión a URL con Autentificacion Token
+Tue Sep 06 15:33:55 CLT 2016 - Conexión a URL vehicles
+Tue Sep 06 15:33:55 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:33:55 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Tue Sep 06 15:33:55 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:33:55 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 2 numero de trama: 2
+Tue Sep 06 15:33:56 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:33:56 CLT 2016 - Lectura de trama vehiculo : FDTV67 numero de trama: 3
+Tue Sep 06 15:33:56 CLT 2016 - Fin lectura
+Tue Sep 06 15:33:56 CLT 2016 - Se cierra conexion
+
+Tue Sep 06 15:34:58 CLT 2016 - Conexión a URL con Autentificacion Token
+Tue Sep 06 15:34:58 CLT 2016 - Conexión a URL vehicles
+Tue Sep 06 15:34:58 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:34:58 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Tue Sep 06 15:34:59 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:34:59 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 2 numero de trama: 2
+Tue Sep 06 15:35:00 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:35:00 CLT 2016 - Lectura de trama vehiculo : FDTV67 numero de trama: 3
+Tue Sep 06 15:35:01 CLT 2016 - Fin lectura
+Tue Sep 06 15:35:01 CLT 2016 - Se cierra conexion
+
+Tue Sep 06 15:36:01 CLT 2016 - Conexión a URL con Autentificacion Token
+Tue Sep 06 15:36:01 CLT 2016 - Conexión a URL vehicles
+Tue Sep 06 15:36:02 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:36:02 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Tue Sep 06 15:36:02 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:36:02 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 2 numero de trama: 2
+Tue Sep 06 15:36:03 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:36:03 CLT 2016 - Lectura de trama vehiculo : FDTV67 numero de trama: 3
+Tue Sep 06 15:36:04 CLT 2016 - Fin lectura
+Tue Sep 06 15:36:04 CLT 2016 - Se cierra conexion
+
+Tue Sep 06 15:37:04 CLT 2016 - Conexión a URL con Autentificacion Token
+Tue Sep 06 15:37:05 CLT 2016 - Conexión a URL vehicles
+Tue Sep 06 15:37:05 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:37:05 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Tue Sep 06 15:37:05 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:37:05 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 2 numero de trama: 2
+Tue Sep 06 15:37:06 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:37:06 CLT 2016 - Lectura de trama vehiculo : FDTV67 numero de trama: 3
+Tue Sep 06 15:37:07 CLT 2016 - Fin lectura
+Tue Sep 06 15:37:07 CLT 2016 - Se cierra conexion
+
+Tue Sep 06 15:38:07 CLT 2016 - Conexión a URL con Autentificacion Token
+Tue Sep 06 15:38:07 CLT 2016 - Conexión a URL vehicles
+Tue Sep 06 15:38:08 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:38:08 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Tue Sep 06 15:38:08 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:38:08 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 2 numero de trama: 2
+Tue Sep 06 15:38:09 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:38:09 CLT 2016 - Lectura de trama vehiculo : FDTV67 numero de trama: 3
+Tue Sep 06 15:38:09 CLT 2016 - Fin lectura
+Tue Sep 06 15:38:09 CLT 2016 - Se cierra conexion
+
+Tue Sep 06 15:39:10 CLT 2016 - Conexión a URL con Autentificacion Token
+Tue Sep 06 15:39:10 CLT 2016 - Conexión a URL vehicles
+Tue Sep 06 15:39:11 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:39:11 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Tue Sep 06 15:39:11 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:39:11 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 2 numero de trama: 2
+Tue Sep 06 15:39:12 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:39:12 CLT 2016 - Lectura de trama vehiculo : FDTV67 numero de trama: 3
+Tue Sep 06 15:39:12 CLT 2016 - Fin lectura
+Tue Sep 06 15:39:13 CLT 2016 - Se cierra conexion
+
+Tue Sep 06 15:40:13 CLT 2016 - Conexión a URL con Autentificacion Token
+Tue Sep 06 15:40:13 CLT 2016 - Conexión a URL vehicles
+Tue Sep 06 15:40:14 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:40:14 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Tue Sep 06 15:40:14 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:40:14 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 2 numero de trama: 2
+Tue Sep 06 15:40:16 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:40:16 CLT 2016 - Lectura de trama vehiculo : FDTV67 numero de trama: 3
+Tue Sep 06 15:40:16 CLT 2016 - Fin lectura
+Tue Sep 06 15:40:16 CLT 2016 - Se cierra conexion
+
+Tue Sep 06 15:41:17 CLT 2016 - Conexión a URL con Autentificacion Token
+Tue Sep 06 15:41:17 CLT 2016 - Conexión a URL vehicles
+Tue Sep 06 15:41:17 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:41:17 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Tue Sep 06 15:41:17 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:41:17 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 2 numero de trama: 2
+Tue Sep 06 15:41:19 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:41:19 CLT 2016 - Lectura de trama vehiculo : FDTV67 numero de trama: 3
+Tue Sep 06 15:41:19 CLT 2016 - Fin lectura
+Tue Sep 06 15:41:19 CLT 2016 - Se cierra conexion
+
+Tue Sep 06 15:42:20 CLT 2016 - Conexión a URL con Autentificacion Token
+Tue Sep 06 15:42:20 CLT 2016 - Conexión a URL vehicles
+Tue Sep 06 15:42:20 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:42:20 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Tue Sep 06 15:42:20 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:42:20 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 2 numero de trama: 2
+Tue Sep 06 15:42:22 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:42:22 CLT 2016 - Lectura de trama vehiculo : FDTV67 numero de trama: 3
+Tue Sep 06 15:42:22 CLT 2016 - Fin lectura
+Tue Sep 06 15:42:22 CLT 2016 - Se cierra conexion
+
+Tue Sep 06 15:43:23 CLT 2016 - Conexión a URL con Autentificacion Token
+Tue Sep 06 15:43:23 CLT 2016 - Conexión a URL vehicles
+Tue Sep 06 15:43:23 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:43:23 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Tue Sep 06 15:43:24 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:43:24 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 2 numero de trama: 2
+Tue Sep 06 15:43:25 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:43:25 CLT 2016 - Lectura de trama vehiculo : FDTV67 numero de trama: 3
+Tue Sep 06 15:43:25 CLT 2016 - Fin lectura
+Tue Sep 06 15:43:25 CLT 2016 - Se cierra conexion
+
+Tue Sep 06 15:44:26 CLT 2016 - Conexión a URL con Autentificacion Token
+Tue Sep 06 15:44:26 CLT 2016 - Conexión a URL vehicles
+Tue Sep 06 15:44:26 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:44:26 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Tue Sep 06 15:44:27 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:44:27 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 2 numero de trama: 2
+Tue Sep 06 15:44:28 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:44:28 CLT 2016 - Lectura de trama vehiculo : FDTV67 numero de trama: 3
+Tue Sep 06 15:44:28 CLT 2016 - Fin lectura
+Tue Sep 06 15:44:28 CLT 2016 - Se cierra conexion
+
+Tue Sep 06 15:45:29 CLT 2016 - Conexión a URL con Autentificacion Token
+Tue Sep 06 15:45:29 CLT 2016 - Conexión a URL vehicles
+Tue Sep 06 15:45:30 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:45:30 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Tue Sep 06 15:45:30 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:45:30 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 2 numero de trama: 2
+Tue Sep 06 15:45:31 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:45:31 CLT 2016 - Lectura de trama vehiculo : FDTV67 numero de trama: 3
+Tue Sep 06 15:45:31 CLT 2016 - Fin lectura
+Tue Sep 06 15:45:31 CLT 2016 - Se cierra conexion
+
+Tue Sep 06 15:46:32 CLT 2016 - Conexión a URL con Autentificacion Token
+Tue Sep 06 15:46:32 CLT 2016 - Conexión a URL vehicles
+Tue Sep 06 15:46:33 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:46:33 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Tue Sep 06 15:46:33 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:46:33 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 2 numero de trama: 2
+Tue Sep 06 15:46:34 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:46:34 CLT 2016 - Lectura de trama vehiculo : FDTV67 numero de trama: 3
+Tue Sep 06 15:46:34 CLT 2016 - Fin lectura
+Tue Sep 06 15:46:34 CLT 2016 - Se cierra conexion
+
+Tue Sep 06 15:47:35 CLT 2016 - Conexión a URL con Autentificacion Token
+Tue Sep 06 15:47:35 CLT 2016 - Conexión a URL vehicles
+Tue Sep 06 15:47:36 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:47:36 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Tue Sep 06 15:47:36 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:47:36 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 2 numero de trama: 2
+Tue Sep 06 15:47:37 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:47:37 CLT 2016 - Lectura de trama vehiculo : FDTV67 numero de trama: 3
+Tue Sep 06 15:47:38 CLT 2016 - Fin lectura
+Tue Sep 06 15:47:38 CLT 2016 - Se cierra conexion
+
+Tue Sep 06 15:48:38 CLT 2016 - Conexión a URL con Autentificacion Token
+Tue Sep 06 15:48:39 CLT 2016 - Conexión a URL vehicles
+Tue Sep 06 15:48:39 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:48:39 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Tue Sep 06 15:48:39 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:48:39 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 2 numero de trama: 2
+Tue Sep 06 15:48:40 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:48:40 CLT 2016 - Lectura de trama vehiculo : FDTV67 numero de trama: 3
+Tue Sep 06 15:48:41 CLT 2016 - Fin lectura
+Tue Sep 06 15:48:41 CLT 2016 - Se cierra conexion
+
+Tue Sep 06 15:49:42 CLT 2016 - Conexión a URL con Autentificacion Token
+Tue Sep 06 15:49:42 CLT 2016 - Conexión a URL vehicles
+Tue Sep 06 15:49:42 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:49:42 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Tue Sep 06 15:49:43 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:49:43 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 2 numero de trama: 2
+Tue Sep 06 15:49:44 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:49:44 CLT 2016 - Lectura de trama vehiculo : FDTV67 numero de trama: 3
+Tue Sep 06 15:49:45 CLT 2016 - Fin lectura
+Tue Sep 06 15:49:45 CLT 2016 - Se cierra conexion
+
+Tue Sep 06 15:50:45 CLT 2016 - Conexión a URL con Autentificacion Token
+Tue Sep 06 15:50:45 CLT 2016 - Conexión a URL vehicles
+Tue Sep 06 15:50:46 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:50:46 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Tue Sep 06 15:50:46 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:50:46 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 2 numero de trama: 2
+Tue Sep 06 15:50:48 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:50:48 CLT 2016 - Lectura de trama vehiculo : FDTV67 numero de trama: 3
+Tue Sep 06 15:50:48 CLT 2016 - Fin lectura
+Tue Sep 06 15:50:48 CLT 2016 - Se cierra conexion
+
+Tue Sep 06 15:51:49 CLT 2016 - Conexión a URL con Autentificacion Token
+Tue Sep 06 15:51:49 CLT 2016 - Conexión a URL vehicles
+Tue Sep 06 15:51:49 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:51:49 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Tue Sep 06 15:51:50 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:51:50 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 2 numero de trama: 2
+Tue Sep 06 15:51:51 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:51:51 CLT 2016 - Lectura de trama vehiculo : FDTV67 numero de trama: 3
+Tue Sep 06 15:51:51 CLT 2016 - Fin lectura
+Tue Sep 06 15:51:51 CLT 2016 - Se cierra conexion
+
+Tue Sep 06 15:52:52 CLT 2016 - Conexión a URL con Autentificacion Token
+Tue Sep 06 15:52:52 CLT 2016 - Conexión a URL vehicles
+Tue Sep 06 15:52:52 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:52:52 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Tue Sep 06 15:52:53 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:52:53 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 2 numero de trama: 2
+Tue Sep 06 15:52:54 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:52:54 CLT 2016 - Lectura de trama vehiculo : FDTV67 numero de trama: 3
+Tue Sep 06 15:52:54 CLT 2016 - Fin lectura
+Tue Sep 06 15:52:54 CLT 2016 - Se cierra conexion
+
+Tue Sep 06 15:53:55 CLT 2016 - Conexión a URL con Autentificacion Token
+Tue Sep 06 15:53:55 CLT 2016 - Conexión a URL vehicles
+Tue Sep 06 15:53:56 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:53:56 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Tue Sep 06 15:53:56 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:53:56 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 2 numero de trama: 2
+Tue Sep 06 15:53:58 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:53:58 CLT 2016 - Lectura de trama vehiculo : FDTV67 numero de trama: 3
+Tue Sep 06 15:53:58 CLT 2016 - Fin lectura
+Tue Sep 06 15:53:58 CLT 2016 - Se cierra conexion
+
+Tue Sep 06 15:54:59 CLT 2016 - Conexión a URL con Autentificacion Token
+Tue Sep 06 15:54:59 CLT 2016 - Conexión a URL vehicles
+Tue Sep 06 15:54:59 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:54:59 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Tue Sep 06 15:55:00 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:55:00 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 2 numero de trama: 2
+Tue Sep 06 15:55:01 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:55:01 CLT 2016 - Lectura de trama vehiculo : FDTV67 numero de trama: 3
+Tue Sep 06 15:55:01 CLT 2016 - Fin lectura
+Tue Sep 06 15:55:01 CLT 2016 - Se cierra conexion
+
+Tue Sep 06 15:56:02 CLT 2016 - Conexión a URL con Autentificacion Token
+Tue Sep 06 15:56:02 CLT 2016 - Conexión a URL vehicles
+Tue Sep 06 15:56:02 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:56:02 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Tue Sep 06 15:56:02 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:56:02 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 2 numero de trama: 2
+Tue Sep 06 15:56:04 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:56:04 CLT 2016 - Lectura de trama vehiculo : FDTV67 numero de trama: 3
+Tue Sep 06 15:56:04 CLT 2016 - Fin lectura
+Tue Sep 06 15:56:04 CLT 2016 - Se cierra conexion
+
+Tue Sep 06 15:57:04 CLT 2016 - Conexión a URL con Autentificacion Token
+Tue Sep 06 15:57:05 CLT 2016 - Conexión a URL vehicles
+Tue Sep 06 15:57:05 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:57:05 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Tue Sep 06 15:57:05 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:57:05 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 2 numero de trama: 2
+Tue Sep 06 15:57:06 CLT 2016 - Conexión a URL con registros de posición
+Tue Sep 06 15:57:06 CLT 2016 - Lectura de trama vehiculo : FDTV67 numero de trama: 3
+Tue Sep 06 15:57:06 CLT 2016 - Fin lectura
+Tue Sep 06 15:57:06 CLT 2016 - Se cierra conexion
+

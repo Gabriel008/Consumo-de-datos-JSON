@@ -1,0 +1,853 @@
+Mon Aug 22 09:09:11 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 09:09:11 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 09:09:12 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 09:09:12 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 09:09:13 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 09:09:13 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 09:09:13 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 09:09:15 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 09:09:15 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 09:09:15 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 09:09:15 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 09:09:15 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 09:09:16 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 09:09:16 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 09:09:16 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 09:09:17 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 09:09:17 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 09:09:18 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 09:09:18 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 09:09:18 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 09:09:18 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 09:09:18 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 09:09:19 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 09:09:19 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 09:09:19 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 09:09:20 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 09:09:20 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 09:09:21 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 09:09:21 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 09:09:21 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 09:09:21 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 09:09:22 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 09:09:23 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 09:09:23 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 09:09:23 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 09:09:23 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 09:09:23 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 09:09:24 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 09:09:24 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 09:09:24 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 09:09:24 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 09:09:25 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 09:09:26 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 09:09:26 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 09:09:26 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 09:09:26 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 09:09:26 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 09:09:27 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 09:09:28 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 09:09:28 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 09:09:28 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 09:09:28 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 09:09:29 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 09:09:29 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 09:09:29 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 09:09:30 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 09:09:30 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 09:09:31 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 09:09:31 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 09:09:31 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 09:09:31 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 09:09:32 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 09:09:33 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 09:09:33 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 09:09:33 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 09:09:33 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 09:09:33 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 09:09:35 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 09:09:35 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 09:09:35 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 09:09:35 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 09:09:35 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 09:09:36 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 09:09:36 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 09:09:36 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 09:09:37 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 09:09:37 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 09:09:38 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 09:09:38 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 09:09:38 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 09:18:51 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 09:18:51 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 09:18:52 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 09:18:52 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 09:18:53 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 09:18:53 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 09:18:53 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 09:18:54 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 09:18:54 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 09:18:54 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 09:18:54 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 09:18:55 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 09:18:55 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 09:18:55 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 09:18:56 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 09:18:56 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 09:18:56 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 09:18:57 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 09:18:57 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 09:18:57 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 09:18:57 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 09:18:57 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 09:18:58 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 09:18:59 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 09:18:59 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 09:18:59 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 09:18:59 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 09:19:00 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 09:19:00 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 09:19:00 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 09:19:00 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 09:19:01 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 09:19:02 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 09:19:02 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 09:19:02 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 09:19:02 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 09:19:02 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 09:19:03 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 09:19:03 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 09:19:03 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 09:19:03 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 09:19:04 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 09:19:05 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 09:19:05 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 09:19:05 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 09:19:05 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 09:19:05 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 09:19:06 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 09:19:06 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 09:19:06 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 09:19:06 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 09:19:07 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 09:19:08 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 09:19:08 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 09:19:08 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 09:19:08 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 09:19:08 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 09:19:09 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 09:19:09 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 09:19:09 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 09:19:10 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 09:19:10 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 09:19:11 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 09:19:11 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 09:19:11 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 09:19:11 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 09:19:12 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 09:19:12 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 09:19:13 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 09:19:13 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 09:19:13 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 09:19:13 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 09:19:14 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 09:19:14 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 09:19:14 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 09:19:14 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 09:19:14 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 09:19:15 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 09:19:15 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 09:19:16 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 09:19:16 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 09:19:16 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 09:19:17 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 09:19:17 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 09:19:17 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 09:19:18 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 09:19:18 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 09:19:19 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 09:19:19 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 09:19:19 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 09:19:19 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 09:19:19 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 09:19:20 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 09:19:20 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 09:19:20 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 09:19:21 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 09:19:21 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 09:19:22 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 09:19:22 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 09:19:22 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 09:19:22 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 09:19:22 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 09:19:23 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 09:19:23 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 09:19:23 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 09:19:24 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 09:19:24 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 09:19:25 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 09:19:25 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 09:19:25 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 09:19:26 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 09:19:26 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 09:26:15 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 09:26:15 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 09:26:16 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 09:26:16 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 09:26:16 CLT 2016 - REG obtenido: insert into rxc4 values ('111111111111111','0','12,547,MICROLOGICA TEST 1,220816,0919170,0,0,0,357666050705513,257.0,2016-08-22T09:19:17,true,2016-08-22T09:32:5087184,,0,547,0,99.0,0334664,706220','2016-08-22 06:19:17.0','17','0')
+Mon Aug 22 09:26:16 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 09:26:17 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 09:26:17 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 09:26:18 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 09:26:18 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 09:26:18 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 09:26:19 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 09:26:19 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 09:26:20 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 09:26:20 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 09:26:20 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 09:26:21 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 09:26:21 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 09:26:22 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 09:26:22 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 09:26:22 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 09:26:23 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 09:26:23 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 09:26:24 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 09:26:24 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 09:26:24 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 09:26:24 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 09:26:25 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 09:26:26 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 09:26:26 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 09:26:26 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 09:26:26 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 09:26:26 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 09:26:27 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 09:26:27 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 09:26:27 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 09:26:28 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 09:26:28 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 09:26:29 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 09:26:29 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 09:26:29 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 09:26:29 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 09:26:29 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 09:26:31 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 09:26:31 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 09:26:31 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 09:26:31 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 09:26:31 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 09:26:32 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 09:26:32 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 09:26:32 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 09:26:32 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 09:26:33 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 09:26:34 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 09:26:34 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 09:26:34 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 09:26:34 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 09:26:34 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 09:26:35 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 09:26:35 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 09:26:35 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 09:26:36 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 09:26:36 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 09:28:23 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 09:28:24 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 09:28:25 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 09:28:25 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 09:28:25 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 09:28:25 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 09:28:25 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 09:28:27 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 09:28:27 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 09:28:27 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 09:28:27 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 09:28:27 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 09:28:28 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 09:28:28 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 09:28:28 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 09:28:28 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 09:28:29 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 09:28:30 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 09:28:30 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 09:28:30 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 09:28:30 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 09:28:30 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 09:28:31 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 09:28:31 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 09:28:31 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 09:28:32 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 09:28:32 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 09:28:33 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 09:28:33 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 09:28:33 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 09:28:33 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 09:28:33 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 09:28:34 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 09:28:34 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 09:28:34 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 09:28:35 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 09:28:35 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 09:28:36 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 09:28:36 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 09:28:36 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 09:28:36 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 09:28:36 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 09:28:37 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 09:28:37 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 09:28:37 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 09:28:38 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 09:28:38 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 09:28:39 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 09:28:39 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 09:28:39 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 09:28:39 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 09:28:39 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 09:28:40 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 09:28:40 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 09:28:40 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 09:28:41 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 09:28:41 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 10:15:24 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 10:15:24 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 10:15:25 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 10:15:25 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 10:15:26 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 10:15:26 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 10:15:26 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 10:15:27 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 10:15:27 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 10:15:27 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 10:15:28 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 10:15:28 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 10:15:29 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 10:15:29 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 10:15:29 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 10:15:30 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 10:15:30 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 10:29:30 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 10:29:30 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 10:29:31 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 10:29:31 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 10:29:31 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 10:29:32 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 10:29:32 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 10:29:33 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 10:29:33 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 10:29:33 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 10:29:33 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 10:29:34 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 10:29:35 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 10:29:35 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 10:29:35 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 10:29:35 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 10:29:35 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 10:29:37 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 10:29:37 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 10:29:37 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 10:29:37 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 10:29:37 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 10:29:39 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 10:29:39 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 10:29:39 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 10:29:39 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 10:29:39 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 10:29:40 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 10:29:40 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 10:29:40 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 10:29:41 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 10:29:41 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 10:29:42 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 10:29:42 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 10:29:42 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 10:29:42 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 10:29:42 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 10:29:43 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 10:29:43 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 10:29:44 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 10:29:44 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 10:29:44 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 10:29:45 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 10:29:45 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 10:29:45 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 10:31:49 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 10:31:49 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 10:31:51 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 10:31:51 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 10:31:51 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El índice 2 está fuera de intervalo.
+
+Mon Aug 22 10:31:52 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 10:31:52 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 10:31:54 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 10:31:54 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 10:31:54 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El índice 2 está fuera de intervalo.
+
+Mon Aug 22 10:31:54 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 10:31:55 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 10:31:56 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 10:31:56 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 10:31:56 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El índice 2 está fuera de intervalo.
+
+Mon Aug 22 10:31:56 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 10:31:57 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 10:31:58 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 10:31:58 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 10:31:58 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El índice 2 está fuera de intervalo.
+
+Mon Aug 22 10:31:58 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 10:31:59 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 10:32:00 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 10:32:00 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 10:32:00 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El índice 2 está fuera de intervalo.
+
+Mon Aug 22 10:32:00 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 10:32:01 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 10:32:02 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 10:32:02 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 10:32:02 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El índice 2 está fuera de intervalo.
+
+Mon Aug 22 10:32:03 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 10:32:03 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 10:32:04 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 10:32:04 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 10:32:04 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El índice 2 está fuera de intervalo.
+
+Mon Aug 22 10:32:05 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 10:32:05 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 10:32:07 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 10:32:07 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 10:32:07 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El índice 2 está fuera de intervalo.
+
+Mon Aug 22 10:32:07 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 10:32:07 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 10:32:08 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 10:32:08 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 10:32:09 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El índice 2 está fuera de intervalo.
+
+Mon Aug 22 10:32:09 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 10:32:09 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 10:32:10 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 10:32:10 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 10:32:10 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El índice 2 está fuera de intervalo.
+
+Mon Aug 22 10:32:11 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 10:32:11 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 10:32:12 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 10:32:12 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 10:32:12 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El índice 2 está fuera de intervalo.
+
+Mon Aug 22 10:32:12 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 10:32:13 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 10:32:50 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 10:32:51 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 10:32:52 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 10:32:52 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 10:32:52 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El índice 2 está fuera de intervalo.
+
+Mon Aug 22 10:32:52 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 10:32:52 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 10:32:53 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 10:32:53 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 10:32:53 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El índice 2 está fuera de intervalo.
+
+Mon Aug 22 10:32:54 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 10:32:54 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 10:32:55 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 10:32:55 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 10:32:55 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El índice 2 está fuera de intervalo.
+
+Mon Aug 22 10:32:55 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 10:32:56 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 10:34:46 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 10:34:47 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 10:34:48 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 10:34:48 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 10:34:48 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 10:34:48 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 10:34:48 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 10:34:50 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 10:34:50 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 10:34:50 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 10:34:50 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 10:34:50 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 10:34:51 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 10:34:51 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 10:34:51 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 10:34:51 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 10:34:52 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 10:34:53 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 10:34:53 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 10:34:53 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 10:34:53 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 10:34:53 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 10:34:54 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 10:34:54 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 10:34:54 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 10:34:55 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 10:34:55 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 10:34:56 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 10:34:56 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 10:34:56 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 10:34:56 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 10:34:57 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 10:34:58 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 10:34:58 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 10:34:58 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 10:34:58 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 10:34:58 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 10:34:59 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 10:34:59 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 10:34:59 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 10:35:00 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 10:35:00 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 10:35:01 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 10:35:01 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 10:35:01 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 10:35:01 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 10:35:02 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 10:35:05 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 10:35:05 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 10:35:05 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 10:35:05 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 10:35:06 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 10:35:07 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 10:35:07 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 10:35:07 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 10:39:17 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 10:39:17 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 10:39:18 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 10:39:18 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 10:39:18 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 10:39:19 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 10:39:19 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 10:39:49 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 10:39:49 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 10:39:50 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 10:39:50 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 10:39:50 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 10:39:50 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 10:39:51 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 10:39:52 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 10:39:52 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 10:39:52 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 10:39:52 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 10:39:52 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 10:41:28 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 10:41:28 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 10:41:29 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 10:41:29 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 10:41:29 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 10:41:29 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 10:41:29 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 10:41:31 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 10:41:31 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 10:41:31 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 10:41:31 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 10:41:31 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 10:41:33 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 10:41:33 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 10:41:33 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 10:41:33 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 10:41:34 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 10:41:35 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 10:41:35 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 10:41:35 CLT 2016 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: El conjunto de resultados no tiene fila actual.
+
+Mon Aug 22 10:41:35 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 10:43:40 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 10:43:40 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 10:43:41 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 10:43:41 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 10:43:42 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160822','7000000203',0,0,0,convert(datetime,'2016-08-22 06:20:03.0',102),'334671706263','','334671','706263','          ','8','335')
+Mon Aug 22 10:43:42 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160822','7000000203',0,0,0,convert(datetime,'2016-08-22 06:25:01.0',102),'334433706333','','334433','706333','          ','0','346')
+Mon Aug 22 10:43:42 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160822','7000000203',0,0,0,convert(datetime,'2016-08-22 06:27:08.0',102),'334348706355','','334348','706355','          ','35','294')
+Mon Aug 22 10:43:43 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160822','7000000203',0,0,0,convert(datetime,'2016-08-22 06:27:54.0',102),'334333706424','','334333','706424','          ','37','332')
+Mon Aug 22 10:43:43 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160822','7000000203',0,0,0,convert(datetime,'2016-08-22 06:28:12.0',102),'334316706420','','334316','706420','          ','27','60')
+Mon Aug 22 10:43:43 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160822','7000000203',0,0,0,convert(datetime,'2016-08-22 06:29:01.0',102),'334316706408','','334316','706408','          ','8','317')
+Mon Aug 22 10:43:43 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160822','7000000203',0,0,0,convert(datetime,'2016-08-22 06:29:57.0',102),'334313706409','','334313','706409','          ','11','48')
+Mon Aug 22 10:43:43 CLT 2016 - REG obtenido: insert into RegRx values (23,1,'20160822','7000000203',0,0,0,convert(datetime,'2016-08-22 06:32:46.0',102),'334318706400','','334318','706400','          ','0','56')
+Mon Aug 22 10:43:43 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160822','7000000203',0,0,0,convert(datetime,'2016-08-22 08:32:45.0',102),'334318706400','','334318','706400','          ','0','56')
+Mon Aug 22 10:43:43 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160822','7000000203',0,0,0,convert(datetime,'2016-08-22 10:32:47.0',102),'334318706400','','334318','706400','          ','0','56')
+Mon Aug 22 10:43:45 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 10:43:45 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 2 numero de trama: 2
+Mon Aug 22 10:43:47 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 10:43:47 CLT 2016 - Lectura de trama vehiculo : FDTV67 numero de trama: 3
+Mon Aug 22 10:43:47 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160822','7000000205',0,0,0,convert(datetime,'2016-08-22 10:23:30.0',102),'334727706140','','334727','706140','          ','24','241')
+Mon Aug 22 10:43:47 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160822','7000000205',0,0,0,convert(datetime,'2016-08-22 10:23:46.0',102),'334729706151','','334729','706151','          ','19','187')
+Mon Aug 22 10:43:47 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160822','7000000205',0,0,0,convert(datetime,'2016-08-22 10:25:42.0',102),'334745706143','','334745','706143','          ','27','123')
+Mon Aug 22 10:43:47 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160822','7000000205',0,0,0,convert(datetime,'2016-08-22 10:25:53.0',102),'334744706134','','334744','706134','          ','27','60')
+Mon Aug 22 10:43:47 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160822','7000000205',0,0,0,convert(datetime,'2016-08-22 10:26:16.0',102),'334727706135','','334727','706135','          ','22','294')
+Mon Aug 22 10:43:47 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160822','7000000205',0,0,0,convert(datetime,'2016-08-22 10:31:15.0',102),'334728706146','','334728','706146','          ','0','262')
+Mon Aug 22 10:43:48 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160822','7000000205',0,0,0,convert(datetime,'2016-08-22 10:31:24.0',102),'334728706146','','334728','706146','          ','0','262')
+Mon Aug 22 10:43:48 CLT 2016 - REG obtenido: insert into RegRx values (23,1,'20160822','7000000205',0,0,0,convert(datetime,'2016-08-22 10:31:53.0',102),'334728706146','','334728','706146','          ','0','262')
+Mon Aug 22 10:43:48 CLT 2016 - REG obtenido: insert into RegRx values (22,1,'20160822','7000000205',0,0,0,convert(datetime,'2016-08-22 10:34:17.0',102),'334728706146','','334728','706146','          ','0','262')
+Mon Aug 22 10:43:48 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160822','7000000205',0,0,0,convert(datetime,'2016-08-22 10:36:46.0',102),'334735706234','','334735','706234','          ','9','167')
+Mon Aug 22 10:43:48 CLT 2016 - Fin lectura
+Mon Aug 22 10:43:48 CLT 2016 - Se cierra conexion
+
+Mon Aug 22 10:46:06 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 10:46:07 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 10:46:08 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 10:46:08 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 10:46:10 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 10:46:10 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 2 numero de trama: 2
+Mon Aug 22 10:46:13 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 10:46:13 CLT 2016 - Lectura de trama vehiculo : FDTV67 numero de trama: 3
+Mon Aug 22 10:46:13 CLT 2016 - REG obtenido: insert into RegRx values (25,5252,'20160822','7000000205',0,0,0,convert(datetime,'2016-08-22 10:41:45.0',102),'334866706194','','334866','706194','          ','0','142')
+Mon Aug 22 10:46:13 CLT 2016 - Fin lectura
+Mon Aug 22 10:46:13 CLT 2016 - Se cierra conexion
+
+Mon Aug 22 15:06:48 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 15:06:48 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 15:06:50 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 15:06:50 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 15:06:54 CLT 2016 - REG obtenido: insert into RegRx values (25,5252,'20160822','7000000203',0,0,0,convert(datetime,'2016-08-22 14:50:25.0',102),'334458706427','','334458','706427','          ','6','304')
+Mon Aug 22 15:06:54 CLT 2016 - REG obtenido: insert into RegRx values (25,5252,'20160822','7000000203',0,0,0,convert(datetime,'2016-08-22 14:51:24.0',102),'334460706426','','334460','706426','          ','12','165')
+Mon Aug 22 15:06:54 CLT 2016 - REG obtenido: insert into RegRx values (25,5096,'20160822','7000000203',0,0,0,convert(datetime,'2016-08-22 14:56:24.0',102),'334609706386','','334609','706386','          ','59','168')
+Mon Aug 22 15:06:54 CLT 2016 - REG obtenido: insert into RegRx values (5,5252,'20160822','7000000203',0,0,0,convert(datetime,'2016-08-22 14:59:54.0',102),'334815706304','','334815','706304','          ','82','129')
+Mon Aug 22 15:06:54 CLT 2016 - REG obtenido: insert into RegRx values (25,5252,'20160822','7000000203',0,0,0,convert(datetime,'2016-08-22 15:01:24.0',102),'334871706298','','334871','706298','          ','0','165')
+Mon Aug 22 15:06:55 CLT 2016 - REG obtenido: insert into RegRx values (25,5252,'20160822','7000000203',0,0,0,convert(datetime,'2016-08-22 15:01:33.0',102),'334872706299','','334872','706299','          ','14','228')
+Mon Aug 22 15:06:55 CLT 2016 - REG obtenido: insert into RegRx values (25,5252,'20160822','7000000203',0,0,0,convert(datetime,'2016-08-22 15:01:54.0',102),'334874706316','','334874','706316','          ','25','226')
+Mon Aug 22 15:06:55 CLT 2016 - REG obtenido: insert into RegRx values (25,5252,'20160822','7000000203',0,0,0,convert(datetime,'2016-08-22 15:02:48.0',102),'334891706324','','334891','706324','          ','12','292')
+Mon Aug 22 15:06:55 CLT 2016 - REG obtenido: insert into RegRx values (25,5252,'20160822','7000000203',0,0,0,convert(datetime,'2016-08-22 15:03:05.0',102),'334894706330','','334894','706330','          ','30','251')
+Mon Aug 22 15:06:55 CLT 2016 - REG obtenido: insert into RegRx values (25,5252,'20160822','7000000203',0,0,0,convert(datetime,'2016-08-22 15:04:26.0',102),'334956706335','','334956','706335','          ','9','228')
+Mon Aug 22 15:06:56 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 15:06:56 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 2 numero de trama: 2
+Mon Aug 22 15:06:56 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160822','7000000204',0,0,0,convert(datetime,'2016-08-22 14:51:49.0',102),'300000700000','','300000','700000','          ','0','0')
+Mon Aug 22 15:06:57 CLT 2016 - REG obtenido: insert into RegRx values (25,5097,'20160822','7000000204',0,0,0,convert(datetime,'2016-08-22 14:53:44.0',102),'334320706385','','334320','706385','          ','17','141')
+Mon Aug 22 15:06:57 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160822','7000000204',0,0,0,convert(datetime,'2016-08-22 14:55:05.0',102),'334347706389','','334347','706389','          ','19','254')
+Mon Aug 22 15:06:57 CLT 2016 - REG obtenido: insert into RegRx values (5,1,'20160822','7000000204',0,0,0,convert(datetime,'2016-08-22 14:58:32.0',102),'334210706755','','334210','706755','          ','82','305')
+Mon Aug 22 15:06:57 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160822','7000000204',0,0,0,convert(datetime,'2016-08-22 14:58:47.0',102),'334187706782','','334187','706782','          ','88','334')
+Mon Aug 22 15:06:57 CLT 2016 - REG obtenido: insert into RegRx values (5,1,'20160822','7000000204',0,0,0,convert(datetime,'2016-08-22 14:59:28.0',102),'334099706797','','334099','706797','          ','86','354')
+Mon Aug 22 15:06:57 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160822','7000000204',0,0,0,convert(datetime,'2016-08-22 15:00:50.0',102),'334024706820','','334024','706820','          ','8','291')
+Mon Aug 22 15:06:57 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160822','7000000204',0,0,0,convert(datetime,'2016-08-22 15:02:43.0',102),'334004706927','','334004','706927','          ','24','329')
+Mon Aug 22 15:06:57 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160822','7000000204',0,0,0,convert(datetime,'2016-08-22 15:03:51.0',102),'333983706917','','333983','706917','          ','16','298')
+Mon Aug 22 15:06:57 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160822','7000000204',0,0,0,convert(datetime,'2016-08-22 15:04:09.0',102),'333984706917','','333984','706917','          ','3','192')
+Mon Aug 22 15:06:58 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 15:06:58 CLT 2016 - Lectura de trama vehiculo : FDTV67 numero de trama: 3
+Mon Aug 22 15:06:58 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160822','7000000205',0,0,0,convert(datetime,'2016-08-22 14:52:37.0',102),'336271707778','','336271','707778','          ','22','329')
+Mon Aug 22 15:06:58 CLT 2016 - REG obtenido: insert into RegRx values (23,1,'20160822','7000000205',0,0,0,convert(datetime,'2016-08-22 14:53:08.0',102),'336267707776','','336267','707776','          ','0','43')
+Mon Aug 22 15:06:59 CLT 2016 - REG obtenido: insert into RegRx values (22,1,'20160822','7000000205',0,0,0,convert(datetime,'2016-08-22 14:56:16.0',102),'336267707776','','336267','707776','          ','0','43')
+Mon Aug 22 15:06:59 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160822','7000000205',0,0,0,convert(datetime,'2016-08-22 14:56:53.0',102),'336263707775','','336263','707775','          ','14','8')
+Mon Aug 22 15:06:59 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160822','7000000205',0,0,0,convert(datetime,'2016-08-22 14:57:23.0',102),'336256707777','','336256','707777','          ','11','280')
+Mon Aug 22 15:06:59 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160822','7000000205',0,0,0,convert(datetime,'2016-08-22 14:58:11.0',102),'336254707844','','336254','707844','          ','56','279')
+Mon Aug 22 15:06:59 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160822','7000000205',0,0,0,convert(datetime,'2016-08-22 14:58:43.0',102),'336243707886','','336243','707886','          ','30','334')
+Mon Aug 22 15:06:59 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160822','7000000205',0,0,0,convert(datetime,'2016-08-22 14:59:31.0',102),'336212707865','','336212','707865','          ','22','28')
+Mon Aug 22 15:06:59 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160822','7000000205',0,0,0,convert(datetime,'2016-08-22 15:00:00.0',102),'336195707854','','336195','707854','          ','22','326')
+Mon Aug 22 15:06:59 CLT 2016 - REG obtenido: insert into RegRx values (23,1,'20160822','7000000205',0,0,0,convert(datetime,'2016-08-22 15:03:16.0',102),'336186707866','','336186','707866','          ','0','297')
+Mon Aug 22 15:06:59 CLT 2016 - Fin lectura
+Mon Aug 22 15:06:59 CLT 2016 - Se cierra conexion
+
+Mon Aug 22 15:11:00 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 15:11:00 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 15:11:02 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 15:11:02 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 15:11:03 CLT 2016 - REG obtenido: insert into RegRx values (5,1,'20160822','7000000203',0,0,0,convert(datetime,'2016-08-22 15:05:35.0',102),'335007706336','','335007','706336','          ','19','248')
+Mon Aug 22 15:11:03 CLT 2016 - REG obtenido: insert into RegRx values (5,1,'20160822','7000000203',0,0,0,convert(datetime,'2016-08-22 15:06:50.0',102),'335012706393','','335012','706393','          ','30','211')
+Mon Aug 22 15:11:03 CLT 2016 - REG obtenido: insert into RegRx values (5,1,'20160822','7000000203',0,0,0,convert(datetime,'2016-08-22 15:08:25.0',102),'335067706388','','335067','706388','          ','16','231')
+Mon Aug 22 15:11:04 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 15:11:04 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 2 numero de trama: 2
+Mon Aug 22 15:11:05 CLT 2016 - REG obtenido: insert into RegRx values (5,1,'20160822','7000000204',0,0,0,convert(datetime,'2016-08-22 15:05:21.0',102),'334004706927','','334004','706927','          ','12','243')
+Mon Aug 22 15:11:05 CLT 2016 - REG obtenido: insert into RegRx values (5,1,'20160822','7000000204',0,0,0,convert(datetime,'2016-08-22 15:06:40.0',102),'334002706979','','334002','706979','          ','27','247')
+Mon Aug 22 15:11:06 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 15:11:06 CLT 2016 - Lectura de trama vehiculo : FDTV67 numero de trama: 3
+Mon Aug 22 15:11:06 CLT 2016 - REG obtenido: insert into rxc4 values ('111111111111111','0','12,712,FDTV67,220816,1752370,0,0,14.0,357666050776688,329.0,2016-08-22T17:52:37,true,2016-08-22T17:53:11.746014,,0,712,0,99.0,22.53076336271,707778','2016-08-22 14:52:37.0','17','0')
+Mon Aug 22 15:11:07 CLT 2016 - REG obtenido: insert into rxc4 values ('111111111111111','0','12,712,FDTV67,220816,1756530,0,0,9.0,357666050776688,8.0,2016-08-22T17:56:53,true,2016-08-22T18:03:20.474207,,0,712,0,99.0,14.48406336263,707775','2016-08-22 14:56:53.0','17','0')
+Mon Aug 22 15:11:07 CLT 2016 - REG obtenido: insert into rxc4 values ('111111111111111','0','12,712,FDTV67,220816,1758110,0,0,35.0,357666050776688,279.0,2016-08-22T17:58:11,true,2016-08-22T18:03:23.756255,,0,712,0,99.0,56.3269336254,707844','2016-08-22 14:58:11.0','17','0')
+Mon Aug 22 15:11:07 CLT 2016 - REG obtenido: insert into rxc4 values ('111111111111111','0','12,712,FDTV67,220816,1759310,0,0,14.0,357666050776688,28.0,2016-08-22T17:59:31,true,2016-08-22T18:03:22.376202,,0,712,0,99.0,22.53076336212,707865','2016-08-22 14:59:31.0','17','0')
+Mon Aug 22 15:11:07 CLT 2016 - Fin lectura
+Mon Aug 22 15:11:07 CLT 2016 - Se cierra conexion
+
+Mon Aug 22 15:12:08 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 15:12:08 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 15:12:09 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 15:12:09 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 15:12:11 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 15:12:11 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 2 numero de trama: 2
+Mon Aug 22 15:12:11 CLT 2016 - REG obtenido: insert into RegRx values (5,1,'20160822','7000000204',0,0,0,convert(datetime,'2016-08-22 15:09:47.0',102),'334061707046','','334061','707046','          ','35','201')
+Mon Aug 22 15:33:35 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 15:33:35 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 15:33:37 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 15:33:37 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 15:33:39 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160822','7000000203',0,0,0,convert(datetime,'2016-08-22 15:12:47.0',102),'335005706665','','335005','706665','          ','11','208')
+Mon Aug 22 15:33:40 CLT 2016 - REG obtenido: insert into rxc4 values ('111111111111111','0','10,547,MICROLOGICA TEST 1,220816,1812470,0,0,7.0,357666050705513,208.0,2016-08-22T18:12:47,true,2016-08-22T18:12:49.851180,trckpnt,6.0,547,1.31,1.0,11.26538335005,706665','2016-08-22 15:12:47.0','17','0')
+Mon Aug 22 15:33:40 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160822','7000000203',0,0,0,convert(datetime,'2016-08-22 15:13:42.0',102),'33510470671','','335104','70671','          ','107','201')
+Mon Aug 22 15:33:40 CLT 2016 - REG obtenido: insert into rxc4 values ('111111111111111','0','10,547,MICROLOGICA TEST 1,220816,1813420,0,0,67.0,357666050705513,201.0,2016-08-22T18:13:42,true,2016-08-22T18:13:44.484982,spd,6.0,547,1.31,4.0,107.82578335104,70671','2016-08-22 15:13:42.0','17','0')
+Mon Aug 22 15:33:41 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160822','7000000203',0,0,0,convert(datetime,'2016-08-22 15:17:46.0',102),'335682707119','','335682','707119','          ','115','186')
+Mon Aug 22 15:33:42 CLT 2016 - REG obtenido: insert into rxc4 values ('111111111111111','0','10,547,MICROLOGICA TEST 1,220816,1817460,0,0,72.0,357666050705513,186.0,2016-08-22T18:17:46,true,2016-08-22T18:17:48.906644,trckpnt,7.0,547,1.24,1.0,115.87248335682,707119','2016-08-22 15:17:46.0','17','0')
+Mon Aug 22 15:33:43 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160822','7000000203',0,0,0,convert(datetime,'2016-08-22 15:19:29.0',102),'335888707151','','335888','707151','          ','24','260')
+Mon Aug 22 15:33:43 CLT 2016 - REG obtenido: insert into rxc4 values ('111111111111111','0','10,547,MICROLOGICA TEST 1,220816,1819290,0,0,15.0,357666050705513,260,2016-08-22T18:19:29,true,2016-08-22T18:19:30.809836,trckpnt,7.0,547,1.29,1.0,24.1401335888,707151','2016-08-22 15:19:29.0','17','0')
+Mon Aug 22 15:33:43 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160822','7000000203',0,0,0,convert(datetime,'2016-08-22 15:19:41.0',102),'335879707153','','335879','707153','          ','35','22')
+Mon Aug 22 15:33:44 CLT 2016 - REG obtenido: insert into rxc4 values ('111111111111111','0','10,547,MICROLOGICA TEST 1,220816,1819410,0,0,22.0,357666050705513,22.0,2016-08-22T18:19:41,true,2016-08-22T18:19:42.815363,trckpnt,7.0,547,1.29,1.0,35.40548335879,707153','2016-08-22 15:19:41.0','17','0')
+Mon Aug 22 15:33:44 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160822','7000000203',0,0,0,convert(datetime,'2016-08-22 15:23:50.0',102),'335920706954','','335920','706954','          ','24','142')
+Mon Aug 22 15:33:45 CLT 2016 - REG obtenido: insert into rxc4 values ('111111111111111','0','10,547,MICROLOGICA TEST 1,220816,1823500,0,0,15.0,357666050705513,142.0,2016-08-22T18:23:50,true,2016-08-22T18:23:52.114911,trckpnt,7.0,547,1.28,1.0,24.1401335920,706954','2016-08-22 15:23:50.0','17','0')
+Mon Aug 22 15:33:46 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160822','7000000203',0,0,0,convert(datetime,'2016-08-22 15:24:27.0',102),'335933706956','','335933','706956','          ','1','134')
+Mon Aug 22 15:33:46 CLT 2016 - REG obtenido: insert into rxc4 values ('111111111111111','0','10,547,MICROLOGICA TEST 1,220816,1824270,0,0,1.0,357666050705513,134.0,2016-08-22T18:24:27,true,2016-08-22T18:24:30.288399,trckpnt,7.0,547,1.23,1.0,1.60934335933,706956','2016-08-22 15:24:27.0','17','0')
+Mon Aug 22 15:33:46 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160822','7000000203',0,0,0,convert(datetime,'2016-08-22 15:24:42.0',102),'335936706942','','335936','706942','          ','12','183')
+Mon Aug 22 15:33:47 CLT 2016 - REG obtenido: insert into rxc4 values ('111111111111111','0','10,547,MICROLOGICA TEST 1,220816,1824420,0,0,8.0,357666050705513,183.0,2016-08-22T18:24:42,true,2016-08-22T18:24:43.907902,trckpnt,7.0,547,1.23,1.0,12.87472335936,706942','2016-08-22 15:24:42.0','17','0')
+Mon Aug 22 15:33:47 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160822','7000000203',0,0,0,convert(datetime,'2016-08-22 15:25:37.0',102),'335986706950','','335986','706950','          ','19','139')
+Mon Aug 22 15:33:47 CLT 2016 - REG obtenido: insert into rxc4 values ('111111111111111','0','10,547,MICROLOGICA TEST 1,220816,1825370,0,0,12.0,357666050705513,139.0,2016-08-22T18:25:37,true,2016-08-22T18:25:4000018,trckpnt,7.0,547,1.23,1.0,19.31208335986,706950','2016-08-22 15:25:37.0','17','0')
+Mon Aug 22 15:33:47 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160822','7000000203',0,0,0,convert(datetime,'2016-08-22 15:30:36.0',102),'336095706477','','336095','706477','          ','67','95')
+Mon Aug 22 15:33:47 CLT 2016 - REG obtenido: insert into rxc4 values ('111111111111111','0','10,547,MICROLOGICA TEST 1,220816,1830360,0,0,42.0,357666050705513,95.0,2016-08-22T18:30:36,true,2016-08-22T18:30:39.195456,trckpnt,7.0,547,1.26,1.0,67.59228336095,706477','2016-08-22 15:30:36.0','17','0')
+Mon Aug 22 15:33:49 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 15:33:49 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 2 numero de trama: 2
+Mon Aug 22 15:33:49 CLT 2016 - REG obtenido: insert into rxc4 values ('111111111111111','0','10,548,MICROLOGICA TEST 2,220816,1809470,0,0,22.0,357666050789681,201.0,2016-08-22T18:09:47,true,2016-08-22T18:09:49.056041,trckpnt,9.0,548,0.86,1.0,35.40548334061,707046','2016-08-22 15:09:47.0','17','0')
+Mon Aug 22 15:33:49 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160822','7000000204',0,0,0,convert(datetime,'2016-08-22 15:10:20.0',102),'334066707050','','334066','707050','          ','20','254')
+Mon Aug 22 15:33:49 CLT 2016 - REG obtenido: insert into rxc4 values ('111111111111111','0','10,548,MICROLOGICA TEST 2,220816,1810200,0,0,13.0,357666050789681,254.0,2016-08-22T18:10:20,true,2016-08-22T18:10:22.111275,trckpnt,9.0,548,0.86,1.0,20.92142334066,707050','2016-08-22 15:10:20.0','17','0')
+Mon Aug 22 15:33:50 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160822','7000000204',0,0,0,convert(datetime,'2016-08-22 15:11:19.0',102),'334093707168','','334093','707168','          ','99','255')
+Mon Aug 22 15:33:50 CLT 2016 - REG obtenido: insert into rxc4 values ('111111111111111','0','10,548,MICROLOGICA TEST 2,220816,1811190,0,0,62.0,357666050789681,255.0,2016-08-22T18:11:19,true,2016-08-22T18:11:21.770956,spd,9.0,548,0.86,4.0,99.77908334093,707168','2016-08-22 15:11:19.0','17','0')
+Mon Aug 22 15:33:50 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160822','7000000204',0,0,0,convert(datetime,'2016-08-22 15:13:28.0',102),'334114707466','','334114','707466','          ','0','215')
+Mon Aug 22 15:33:50 CLT 2016 - REG obtenido: insert into rxc4 values ('111111111111111','0','10,548,MICROLOGICA TEST 2,220816,1813280,0,0,0,357666050789681,215.0,2016-08-22T18:13:28,true,2016-08-22T18:13:30.254619,trckpnt,9.0,548,0.85,1.0,0334114,707466','2016-08-22 15:13:28.0','17','0')
+Mon Aug 22 15:33:50 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160822','7000000204',0,0,0,convert(datetime,'2016-08-22 15:15:49.0',102),'334222707475','','334222','707475','          ','20','149')
+Mon Aug 22 15:33:50 CLT 2016 - REG obtenido: insert into rxc4 values ('111111111111111','0','10,548,MICROLOGICA TEST 2,220816,1815490,0,0,13.0,357666050789681,149.0,2016-08-22T18:15:49,true,2016-08-22T18:15:50.770372,trckpnt,9.0,548,0.85,1.0,20.92142334222,707475','2016-08-22 15:15:49.0','17','0')
+Mon Aug 22 15:33:50 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160822','7000000204',0,0,0,convert(datetime,'2016-08-22 15:16:20.0',102),'334224707434','','334224','707434','          ','30','151')
+Mon Aug 22 15:33:50 CLT 2016 - REG obtenido: insert into rxc4 values ('111111111111111','0','10,548,MICROLOGICA TEST 2,220816,1816200,0,0,19.0,357666050789681,151.0,2016-08-22T18:16:20,true,2016-08-22T18:16:21.894111,trckpnt,8.0,548,0.93,1.0,30.57746334224,707434','2016-08-22 15:16:20.0','17','0')
+Mon Aug 22 15:33:50 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160822','7000000204',0,0,0,convert(datetime,'2016-08-22 15:21:31.0',102),'334419707404','','334419','707404','          ','1','90')
+Mon Aug 22 15:33:51 CLT 2016 - REG obtenido: insert into rxc4 values ('111111111111111','0','10,548,MICROLOGICA TEST 2,220816,1821310,0,0,1.0,357666050789681,90,2016-08-22T18:21:31,true,2016-08-22T18:21:32.988360,trckpnt,8.0,548,1.12,1.0,1.60934334419,707404','2016-08-22 15:21:31.0','17','0')
+Mon Aug 22 15:33:51 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160822','7000000204',0,0,0,convert(datetime,'2016-08-22 15:22:42.0',102),'334421707344','','334421','707344','          ','25','126')
+Mon Aug 22 15:33:51 CLT 2016 - REG obtenido: insert into rxc4 values ('111111111111111','0','10,548,MICROLOGICA TEST 2,220816,1822420,0,0,16.0,357666050789681,126.0,2016-08-22T18:22:42,true,2016-08-22T18:22:45.918340,trckpnt,7.0,548,1.28,1.0,25.74944334421,707344','2016-08-22 15:22:42.0','17','0')
+Mon Aug 22 15:33:51 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160822','7000000204',0,0,0,convert(datetime,'2016-08-22 15:22:59.0',102),'334434707344','','334434','707344','          ','33','188')
+Mon Aug 22 15:33:51 CLT 2016 - REG obtenido: insert into rxc4 values ('111111111111111','0','10,548,MICROLOGICA TEST 2,220816,1822590,0,0,21.0,357666050789681,188.0,2016-08-22T18:22:59,true,2016-08-22T18:23:00.910411,trckpnt,7.0,548,1.28,1.0,33.79614334434,707344','2016-08-22 15:22:59.0','17','0')
+Mon Aug 22 15:33:51 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160822','7000000204',0,0,0,convert(datetime,'2016-08-22 15:23:10.0',102),'334436707345','','334436','707345','          ','0','189')
+Mon Aug 22 15:33:51 CLT 2016 - REG obtenido: insert into rxc4 values ('111111111111111','0','10,548,MICROLOGICA TEST 2,220816,1823100,0,0,0,357666050789681,189.0,2016-08-22T18:23:10,true,2016-08-22T18:23:12.727545,pwrrstd,7.0,548,1.24,23.0,0334436,707345','2016-08-22 15:23:10.0','17','0')
+Mon Aug 22 15:33:53 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 15:33:53 CLT 2016 - Lectura de trama vehiculo : FDTV67 numero de trama: 3
+Mon Aug 22 15:33:54 CLT 2016 - REG obtenido: insert into rxc4 values ('111111111111111','0','10,712,FDTV67,220816,1800000,0,0,14.0,357666050776688,326.0,2016-08-22T18:00:00,true,2016-08-22T18:00:02.016971,trckpnt,7.0,712,1.07,1.0,22.53076336195,707854','2016-08-22 15:00:00.0','17','0')
+Mon Aug 22 15:33:55 CLT 2016 - REG obtenido: insert into rxc4 values ('111111111111111','0','10,712,FDTV67,220816,1803160,0,0,0,357666050776688,297.0,2016-08-22T18:03:16,true,2016-08-22T18:03:18.665664,ignoff,7.0,712,1.24,3.0,0336186,707866','2016-08-22 15:03:16.0','17','0')
+Mon Aug 22 15:33:55 CLT 2016 - Fin lectura
+Mon Aug 22 15:33:55 CLT 2016 - Se cierra conexion
+
+Mon Aug 22 15:34:55 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 15:34:56 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 15:34:57 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 15:34:57 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 15:35:42 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 15:35:42 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 15:35:44 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 15:35:44 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 15:35:45 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160822','7000000203',0,0,0,convert(datetime,'2016-08-22 15:32:02.0',102),'336109706377','','336109','706377','          ','32','183')
+Mon Aug 22 15:35:46 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 15:35:46 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 2 numero de trama: 2
+Mon Aug 22 15:35:48 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 15:35:48 CLT 2016 - Lectura de trama vehiculo : FDTV67 numero de trama: 3
+Mon Aug 22 15:35:49 CLT 2016 - Fin lectura
+Mon Aug 22 15:35:49 CLT 2016 - Se cierra conexion
+
+Mon Aug 22 15:36:50 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 15:36:50 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 15:36:51 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 15:36:51 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 15:36:51 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160822','7000000203',0,0,0,convert(datetime,'2016-08-22 15:33:33.0',102),'336220706392','','336220','706392','          ','38','234')
+Mon Aug 22 15:36:51 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160822','7000000203',0,0,0,convert(datetime,'2016-08-22 15:33:49.0',102),'336219706401','','336219','706401','          ','0','232')
+Mon Aug 22 15:36:51 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160822','7000000203',0,0,0,convert(datetime,'2016-08-22 15:34:32.0',102),'336219706401','','336219','706401','          ','0','232')
+Mon Aug 22 15:36:52 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 15:36:52 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 2 numero de trama: 2
+Mon Aug 22 15:36:54 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 15:36:54 CLT 2016 - Lectura de trama vehiculo : FDTV67 numero de trama: 3
+Mon Aug 22 15:36:54 CLT 2016 - Fin lectura
+Mon Aug 22 15:36:54 CLT 2016 - Se cierra conexion
+
+Mon Aug 22 15:37:55 CLT 2016 - Conexión a URL con Autentificacion Token
+Mon Aug 22 15:37:55 CLT 2016 - Conexión a URL vehicles
+Mon Aug 22 15:37:56 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 15:37:56 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 1 numero de trama: 1
+Mon Aug 22 15:37:56 CLT 2016 - REG obtenido: insert into RegRx values (25,1,'20160822','7000000203',0,0,0,convert(datetime,'2016-08-22 15:35:03.0',102),'336217706413','','336217','706413','          ','9','328')
+Mon Aug 22 15:37:57 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 15:37:57 CLT 2016 - Lectura de trama vehiculo : MICROLOGICA TEST 2 numero de trama: 2
+Mon Aug 22 15:37:59 CLT 2016 - Conexión a URL con registros de posición
+Mon Aug 22 15:37:59 CLT 2016 - Lectura de trama vehiculo : FDTV67 numero de trama: 3
+Mon Aug 22 15:37:59 CLT 2016 - Fin lectura
+Mon Aug 22 15:37:59 CLT 2016 - Se cierra conexion
+
